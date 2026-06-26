@@ -1,0 +1,17 @@
+{
+  "name": "L'Atelier Jitrois",
+  "short_name": "Jitrois",
+  "description": "Le journal de la Maison Jitrois : cuir couture, savoir-faire francais et art de porter le cuir.",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#0B0B0B",
+  "background_color": "#0B0B0B",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

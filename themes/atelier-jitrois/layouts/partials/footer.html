@@ -1,0 +1,36 @@
+{{ $en := eq .Site.Language.Lang "en" }}
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <a href="https://jitrois.com/" class="footer-logo" aria-label="Jitrois" rel="noopener">
+                    <span aria-hidden="true">{{ with resources.Get "images/logo-jitrois.svg" }}{{ .Content | safeHTML }}{{ end }}</span>
+                </a>
+                <p>{{ .Site.Params.description }}</p>
+            </div>
+            <div class="footer-col">
+                <h4>{{ if $en }}Sections{{ else }}Rubriques{{ end }}</h4>
+                <ul>
+                    {{ range .Site.Taxonomies.categories }}
+                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>{{ if $en }}Navigation{{ else }}Navigation{{ end }}</h4>
+                <nav aria-label="{{ if $en }}Footer navigation{{ else }}Navigation pied de page{{ end }}">
+                    <ul>
+                        {{ range .Site.Menus.main }}
+                        <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                        {{ end }}
+                        <li><a href="https://jitrois.com/" rel="noopener">jitrois.com</a></li>
+                        <li><a href="{{ (cond $en "site-map/" "plan-du-site/") | relLangURL }}">{{ if $en }}Site map{{ else }}Plan du site{{ end }}</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} Jitrois. {{ if $en }}All rights reserved{{ else }}Tous droits reserves{{ end }}</p>
+        </div>
+    </div>
+</footer>
