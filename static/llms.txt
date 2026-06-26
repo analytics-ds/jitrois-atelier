@@ -4,31 +4,28 @@
 
 ## A propos
 
-L'Atelier Jitrois est l'espace editorial de la Maison Jitrois, maison de luxe parisienne independante. Jean-Claude Jitrois a invente le cuir stretch, un cuir extensible porte comme une seconde peau. Le journal explore la matiere, le savoir-faire, le style et l'histoire de la maison. Fabrication francaise, fait main.
+L'Atelier Jitrois est l'espace editorial de la Maison Jitrois, maison de luxe parisienne independante. Jean-Claude Jitrois a invente le cuir stretch, un cuir extensible porte comme une seconde peau. Le journal explore le style, l'art de porter le cuir et les conseils de garde-robe, en complement du site de la maison. Fabrication francaise, fait main.
 
 ## Articles de reference (FR)
 
-- Le cuir stretch : qu'est-ce que c'est et comment le reconnaitre ? : https://analytics-ds.github.io/jitrois-atelier/blog/qu-est-ce-que-le-cuir-stretch/
-- Cuir couture : comment naît un vetement en cuir d'exception : https://analytics-ds.github.io/jitrois-atelier/blog/cuir-couture-fabrication/
 - Comment porter le pantalon en cuir avec elegance : https://analytics-ds.github.io/jitrois-atelier/blog/comment-porter-le-pantalon-en-cuir/
-- Jean-Claude Jitrois, l'inventeur du cuir stretch : https://analytics-ds.github.io/jitrois-atelier/blog/jean-claude-jitrois-inventeur-cuir-stretch/
 
 ## Version anglaise (EN)
 
 - Homepage EN : https://analytics-ds.github.io/jitrois-atelier/en/
 - Journal EN : https://analytics-ds.github.io/jitrois-atelier/en/blog/
-- Stretch leather: what it is and how to recognise it : https://analytics-ds.github.io/jitrois-atelier/en/blog/what-is-stretch-leather/
-- Leather couture: how an exceptional leather garment is born : https://analytics-ds.github.io/jitrois-atelier/en/blog/leather-couture-craftsmanship/
 - How to wear leather trousers with elegance : https://analytics-ds.github.io/jitrois-atelier/en/blog/how-to-wear-leather-trousers/
-- Jean-Claude Jitrois, the inventor of stretch leather : https://analytics-ds.github.io/jitrois-atelier/en/blog/jean-claude-jitrois-stretch-leather/
 
 ## Marque
 
 - Site officiel Jitrois : https://jitrois.com/
+- Jean-Claude Jitrois (fondateur) : https://jitrois.com/pages/jean-claude-jitrois
+- Heritage : https://jitrois.com/pages/our-heritage
+- Materiaux / cuir stretch : https://jitrois.com/pages/materials
 
 ## Informations techniques
 
 - Generateur : Hugo (site statique)
 - Multilingue : francais (defaut) + anglais (/en/)
 - Sitemap : https://analytics-ds.github.io/jitrois-atelier/sitemap.xml
-- Schema.org : Organization, Article, BreadcrumbList, FAQPage, WebSite, Person
+- Schema.org : Organization, BlogPosting, WebPage, BreadcrumbList, FAQPage, WebSite

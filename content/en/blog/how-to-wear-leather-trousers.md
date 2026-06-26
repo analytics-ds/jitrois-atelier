@@ -36,7 +36,7 @@ faq:
 
 The cut defines the look. Straight, or slightly flared, **leather trousers** lengthen the leg and pass through the seasons without dating. It is the safest choice for a first piece.
 
-For a bolder silhouette, the fitted cut comes into its own. It is comfortable only if the material follows the body, which is what [stretch leather]({{< relref lang="en" path="blog/what-is-stretch-leather.md" >}}) allows. Without this elasticity, fitted trousers in classic leather would constrain every movement.
+For a bolder silhouette, the fitted cut comes into its own. It is comfortable only if the material follows the body, which is what [stretch leather](https://jitrois.com/pages/materials) allows. Without this elasticity, fitted trousers in classic leather would constrain every movement.
 
 ## Playing on the contrast of materials
 
@@ -46,7 +46,7 @@ The golden rule of leather comes down to one word: **contrast**. Leather is a de
 - A white shirt brings a graphic freshness.
 - A structured coat frames the outfit and gives it poise.
 
-Conversely, avoid stacking shiny materials. It is this restraint that makes all the difference between a chic look and an overstated effect. This demand for cut and finish comes from [leather couture]({{< relref lang="en" path="blog/leather-couture-craftsmanship.md" >}}), which treats trousers as a fashion piece in their own right.
+Conversely, avoid stacking shiny materials. It is this restraint that makes all the difference between a chic look and an overstated effect. This demand for cut and finish comes from [leather couture](https://jitrois.com/pages/our-heritage), which treats trousers as a fashion piece in their own right.
 
 ## Adapting leather trousers to the occasion
 
@@ -60,4 +60,4 @@ Leather trousers are therefore not reserved for going out. In a black, matte ver
 
 ## A house piece
 
-To adopt leather trousers is to enter a certain relationship with clothing, the one Maison Jitrois has championed since inventing stretch leather, as told in the portrait of [Jean-Claude Jitrois]({{< relref lang="en" path="blog/jean-claude-jitrois-stretch-leather.md" >}}). The trousers and other leather pieces of the collection can be discovered on [jitrois.com](https://jitrois.com/).
+To adopt leather trousers is to enter a certain relationship with clothing, the one Maison Jitrois has championed since inventing stretch leather, as told in the portrait of [Jean-Claude Jitrois](https://jitrois.com/pages/jean-claude-jitrois). The trousers and other leather pieces of the collection can be discovered on [jitrois.com](https://jitrois.com/).

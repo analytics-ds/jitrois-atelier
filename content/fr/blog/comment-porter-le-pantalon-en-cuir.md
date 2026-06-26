@@ -36,7 +36,7 @@ Le **pantalon en cuir** est l'une des pieces les plus fortes d'une garde-robe. L
 
 La coupe determine l'allure. Un **pantalon en cuir** droit, voire legerement evase, allonge la jambe et traverse les saisons sans se demoder. C'est le choix le plus sur pour une premiere piece.
 
-Pour une silhouette plus affirmee, la coupe ajustee s'impose. Elle n'est confortable que si la matiere suit le corps, ce que permet le [cuir stretch]({{< relref "blog/qu-est-ce-que-le-cuir-stretch.md" >}}). Sans cette elasticite, un pantalon ajuste en cuir classique contraindrait chaque mouvement.
+Pour une silhouette plus affirmee, la coupe ajustee s'impose. Elle n'est confortable que si la matiere suit le corps, ce que permet le [cuir stretch](https://jitrois.com/pages/materials). Sans cette elasticite, un pantalon ajuste en cuir classique contraindrait chaque mouvement.
 
 ## Jouer le contraste des matieres
 
@@ -46,7 +46,7 @@ La regle d'or du cuir tient en un mot : **contraste**. Le cuir est une matiere d
 - Une chemise blanche apporte une fraicheur graphique.
 - Un manteau structure encadre la tenue et lui donne de la tenue.
 
-On evite a l'inverse d'empiler les matieres brillantes. C'est cette sobriete qui fait toute la difference entre une allure chic et un effet trop appuye. Cette exigence de coupe et de finition vient du [cuir couture]({{< relref "blog/cuir-couture-fabrication.md" >}}), qui traite le pantalon comme une piece de mode a part entiere.
+On evite a l'inverse d'empiler les matieres brillantes. C'est cette sobriete qui fait toute la difference entre une allure chic et un effet trop appuye. Cette exigence de coupe et de finition vient du [cuir couture](https://jitrois.com/pages/our-heritage), qui traite le pantalon comme une piece de mode a part entiere.
 
 ## Adapter le pantalon en cuir a l'occasion
 
@@ -60,4 +60,4 @@ Le pantalon en cuir n'est donc pas reserve aux sorties. En version noire et mate
 
 ## Une piece de maison
 
-Adopter le pantalon en cuir, c'est entrer dans un certain rapport au vetement, celui que defend la Maison Jitrois depuis l'invention du cuir stretch, comme le raconte le portrait de [Jean-Claude Jitrois]({{< relref "blog/jean-claude-jitrois-inventeur-cuir-stretch.md" >}}). Les pantalons et autres pieces en cuir de la collection sont a decouvrir sur [jitrois.com](https://jitrois.com/).
+Adopter le pantalon en cuir, c'est entrer dans un certain rapport au vetement, celui que defend la Maison Jitrois depuis l'invention du cuir stretch, comme le raconte le portrait de [Jean-Claude Jitrois](https://jitrois.com/pages/jean-claude-jitrois). Les pantalons et autres pieces en cuir de la collection sont a decouvrir sur [jitrois.com](https://jitrois.com/).
