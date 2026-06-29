@@ -1,5 +1,5 @@
 ---
 title: "Style and Wardrobe"
-description: "How to wear leather with elegance: style tips and the essential pieces of a leather wardrobe."
+description: "Our inspiration to wear leather with elegance and build, piece by piece, a wardrobe that is truly yours."
 translationKey: "cat-style"
 ---

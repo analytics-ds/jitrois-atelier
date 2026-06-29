@@ -51,10 +51,6 @@ enableGitInfo = false
   url = "/categories/style-et-garde-robe/"
   weight = 4
 [[languages.fr.menus.main]]
-  name = "La Maison"
-  url = "/categories/la-maison/"
-  weight = 5
-[[languages.fr.menus.main]]
   name = "Le Journal"
   url = "/blog/"
   weight = 99
@@ -76,10 +72,6 @@ enableGitInfo = false
   name = "Style and Wardrobe"
   url = "/categories/style-and-wardrobe/"
   weight = 4
-[[languages.en.menus.main]]
-  name = "The House"
-  url = "/categories/the-house/"
-  weight = 5
 [[languages.en.menus.main]]
   name = "Journal"
   url = "/blog/"

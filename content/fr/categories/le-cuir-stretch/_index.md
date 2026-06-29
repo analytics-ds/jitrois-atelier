@@ -1,5 +1,5 @@
 ---
 title: "Le Cuir Stretch"
-description: "Tout sur le cuir stretch : la matiere signature de la Maison Jitrois, son histoire et ses caracteristiques."
+description: "Notre matiere signature, pensee comme une seconde peau. Decouvrez ce qui rend le cuir stretch unique et pourquoi il a change notre rapport au cuir."
 translationKey: "cat-cuir-stretch"
 ---

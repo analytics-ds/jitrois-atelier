@@ -1,5 +1,5 @@
 ---
 title: "Stretch Leather"
-description: "Everything about stretch leather: the signature material of Maison Jitrois, its history and characteristics."
+description: "Our signature material, conceived as a second skin. Discover what makes stretch leather unique and why it changed our relationship with leather."
 translationKey: "cat-cuir-stretch"
 ---
