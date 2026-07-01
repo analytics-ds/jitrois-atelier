@@ -15,4 +15,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://analytics-ds.github.io/jitrois-atelier/sitemap.xml
+Sitemap: https://atelier.jitrois.com/sitemap.xml

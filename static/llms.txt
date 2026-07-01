@@ -8,13 +8,13 @@ L'Atelier Jitrois est l'espace editorial de la Maison Jitrois, maison de luxe pa
 
 ## Articles de reference (FR)
 
-- Comment porter le pantalon en cuir avec elegance : https://analytics-ds.github.io/jitrois-atelier/blog/comment-porter-le-pantalon-en-cuir/
+- Comment porter le pantalon en cuir avec elegance : https://atelier.jitrois.com/blog/comment-porter-le-pantalon-en-cuir/
 
 ## Version anglaise (EN)
 
-- Homepage EN : https://analytics-ds.github.io/jitrois-atelier/en/
-- Journal EN : https://analytics-ds.github.io/jitrois-atelier/en/blog/
-- How to wear leather trousers with elegance : https://analytics-ds.github.io/jitrois-atelier/en/blog/how-to-wear-leather-trousers/
+- Homepage EN : https://atelier.jitrois.com/en/
+- Journal EN : https://atelier.jitrois.com/en/blog/
+- How to wear leather trousers with elegance : https://atelier.jitrois.com/en/blog/how-to-wear-leather-trousers/
 
 ## Marque
 
@@ -27,5 +27,5 @@ L'Atelier Jitrois est l'espace editorial de la Maison Jitrois, maison de luxe pa
 
 - Generateur : Hugo (site statique)
 - Multilingue : francais (defaut) + anglais (/en/)
-- Sitemap : https://analytics-ds.github.io/jitrois-atelier/sitemap.xml
+- Sitemap : https://atelier.jitrois.com/sitemap.xml
 - Schema.org : Organization, BlogPosting, WebPage, BreadcrumbList, FAQPage, WebSite
