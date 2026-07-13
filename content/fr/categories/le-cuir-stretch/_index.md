@@ -1,5 +1,5 @@
 ---
 title: "Le Cuir Stretch"
-description: "Notre matiere signature, pensee comme une seconde peau. Decouvrez ce qui rend le cuir stretch unique et pourquoi il a change notre rapport au cuir."
+description: "Notre matière signature, pensée comme une seconde peau. Découvrez ce qui rend le cuir stretch unique et pourquoi il a changé notre rapport au cuir."
 translationKey: "cat-cuir-stretch"
 ---
