@@ -73,7 +73,7 @@ Un avis solide sur une **marque de luxe** se construit sur des critères vérifi
 La réputation de la Maison ne repose pas sur son seul discours. Elle s'est construite auprès des artistes, des musiciens et des performeurs, pour qui la scène est un espace d'intensité physique autant que psychologique. Les créations Jitrois les accompagnent dans ces moments d'exposition extrême, en offrant structure, protection et liberté de mouvement.
 
 > « Jitrois est reconnue comme la maison française qui a réinventé le cuir, et qui continue de le réinventer, dans la couleur, la forme, la technique et sa relation intime au corps. »
-> — jitrois.com, page Our Heritage, 2026
+> Source jitrois.com, page Our Heritage, 2026
 
 Cette place singulière, celle d'une maison identifiée à une matière qu'elle a elle-même transformée, est rare dans le paysage du luxe. Peu de maisons peuvent revendiquer une invention technique documentée qui porte leur nom.
 

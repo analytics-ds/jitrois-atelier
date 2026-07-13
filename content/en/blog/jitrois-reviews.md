@@ -73,7 +73,7 @@ A solid opinion on a **luxury brand** is built on verifiable criteria, not impre
 The reputation of the House does not rest on its own discourse alone. It was built alongside artists, musicians and performers, for whom the stage is a space of physical as much as psychological intensity. Jitrois creations accompany them in these moments of extreme exposure, offering structure, protection and freedom of movement.
 
 > "Jitrois is recognised as the French House that reinvented leather, and continues to reinvent it, in colour, in form, in technique, and in its intimate relationship with the body."
-> — jitrois.com, Our Heritage page, 2026
+> Source jitrois.com, Our Heritage page, 2026
 
 This singular position, that of a house identified with a material it transformed itself, is rare in the luxury landscape. Few houses can claim a documented technical invention that carries their name.
 

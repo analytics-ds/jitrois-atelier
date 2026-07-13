@@ -70,10 +70,10 @@ articles:
     volume: 110
     kd: null
     scheduled_date: "2026-07-24"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-13"
+    published_url_fr: "https://atelier.jitrois.com/blog/comment-porter-une-jupe-en-cuir/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/how-to-wear-a-leather-skirt/"
     error: null
 
   - kw: "cuir nappa c'est quoi"
@@ -81,10 +81,10 @@ articles:
     volume: 140
     kd: null
     scheduled_date: "2026-07-31"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-13"
+    published_url_fr: "https://atelier.jitrois.com/blog/qu-est-ce-que-le-cuir-nappa/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/what-is-nappa-leather/"
     error: null
 
   # ============ Aout 2026 ============
@@ -93,10 +93,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-08-07"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-13"
+    published_url_fr: "https://atelier.jitrois.com/blog/difference-haute-couture-pret-a-porter/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/haute-couture-vs-ready-to-wear/"
     error: null
 
   - kw: "comment porter une veste en cuir femme"
@@ -104,10 +104,10 @@ articles:
     volume: 30
     kd: null
     scheduled_date: "2026-08-14"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-13"
+    published_url_fr: "https://atelier.jitrois.com/blog/comment-porter-une-veste-en-cuir-femme/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/how-to-wear-a-leather-jacket-women/"
     error: null
 
   - kw: "comment reconnaitre un cuir de qualite"
