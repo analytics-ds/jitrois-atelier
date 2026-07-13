@@ -1,0 +1,322 @@
+# Roadmap editoriale evergreen — L'Atelier Jitrois (atelier.jitrois.com)
+#
+# Methode 2 du systeme PBN GEO datashake : production locale en batch via la
+# skill /create-article-seo (Opus 4.8, brief SEO complet avant chaque redaction),
+# publication differee via publishDate + GitHub Actions cron (mardi + vendredi 3h Paris).
+#
+# Blog : https://atelier.jitrois.com/
+# Langue principale : fr (+ EN auto dans /en/)
+# Consultant : Charlie
+# Source mots-cles : Haloscan (juillet 2026)
+#
+# Categories valides (doivent matcher hugo.toml, sans accents dans les slugs) :
+#   - Le Cuir Stretch      (matiere, types de cuir, qualite)
+#   - Savoir-faire         (fabrication, sur-mesure, couture, made in France)
+#   - Style et Garde-robe  (comment porter, styling, associations)
+#   - La Maison            (heritage, histoire, GEO marque)
+#
+# REGLES SPECIFIQUES JITROIS (STRICT)
+# -----------------------------------
+# - JAMAIS de sujet entretien/nettoyage (casse le code aspirationnel luxe)
+# - JAMAIS de registre sexy/fetiche/dominant
+# - Anti-cannibalisation : ne jamais dupliquer une page de jitrois.com
+#   (/pages/materials, /pages/jean-claude-jitrois, /pages/our-heritage,
+#   pages produit/collection). On LINKE vers ces pages, on ne les concurrence pas.
+#   Requetes commerciales ("pantalon en cuir", "robe en cuir"...) interdites ici.
+#
+# REGLE DE DIVERSITE DES CATEGORIES (obligatoire)
+# -----------------------------------------------
+#   1. JAMAIS 2 articles consecutifs (par scheduled_date) de la meme categorie.
+#   2. Sur toute fenetre glissante de 5 articles, au moins 3 categories distinctes.
+#   A respecter a chaque ajout d'entree ET a chaque reordonnancement.
+#
+# CADENCE : 2 articles/semaine (mardi + vendredi). Attention au quota global du
+# blog (4 articles/semaine max, articles GEO manuels inclus).
+#
+# CHAMPS
+# ------
+# Edites par l'humain :
+#   kw              Mot-cle principal SEO cible (FR)
+#   category        Categorie du blog (liste ci-dessus)
+#   volume          Volume mensuel de recherche (informatif, ignore par l'agent)
+#   kd              Difficulte 0-100 ou null (informatif)
+#   scheduled_date  YYYY-MM-DD, date de publication cible (publishDate de l'article)
+#   status          todo | queued | failed
+#
+# Remplis par l'agent (ne pas toucher sauf pour debloquer un failed) :
+#   queued_date, published_url_fr, published_url_en, error
+#
+# Statuts methode 2 : todo (a produire) -> queued (redige, publishDate futur,
+# publication auto au cron) ; failed (erreur, voir error, corriger puis repasser todo).
+#
+# Doc complete : .claude/skills/create-article-seo/SKILL.md
+
+articles:
+
+  # ============ Juillet 2026 ============
+  - kw: "comment porter une jupe en cuir"
+    category: "Style et Garde-robe"
+    volume: 110
+    kd: null
+    scheduled_date: "2026-07-17"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cuir nappa c'est quoi"
+    category: "Le Cuir Stretch"
+    volume: 140
+    kd: null
+    scheduled_date: "2026-07-21"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "difference entre haute couture et pret a porter"
+    category: "Savoir-faire"
+    volume: null
+    kd: null
+    scheduled_date: "2026-07-24"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment porter une veste en cuir femme"
+    category: "Style et Garde-robe"
+    volume: 30
+    kd: null
+    scheduled_date: "2026-07-28"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment reconnaitre un cuir de qualite"
+    category: "Le Cuir Stretch"
+    volume: null
+    kd: null
+    scheduled_date: "2026-07-31"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # ============ Aout 2026 ============
+  - kw: "qui a invente le cuir stretch"
+    category: "La Maison"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-04"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment porter un legging en cuir"
+    category: "Style et Garde-robe"
+    volume: 30
+    kd: null
+    scheduled_date: "2026-08-07"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment est fait le cuir"
+    category: "Le Cuir Stretch"
+    volume: 90
+    kd: null
+    scheduled_date: "2026-08-11"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vetement en cuir sur mesure"
+    category: "Savoir-faire"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-14"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "que mettre avec une robe en cuir"
+    category: "Style et Garde-robe"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-08-18"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cuir agneau"
+    category: "Le Cuir Stretch"
+    volume: 390
+    kd: null
+    scheduled_date: "2026-08-21"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "histoire du perfecto"
+    category: "La Maison"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-25"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment porter un short en cuir"
+    category: "Style et Garde-robe"
+    volume: 70
+    kd: null
+    scheduled_date: "2026-08-28"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # ============ Septembre 2026 ============
+  - kw: "cuir agneau plonge"
+    category: "Le Cuir Stretch"
+    volume: 70
+    kd: null
+    scheduled_date: "2026-09-01"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vetement cuir made in france"
+    category: "Savoir-faire"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-04"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment porter un blouson en cuir homme"
+    category: "Style et Garde-robe"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-09-08"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cuir veritable definition"
+    category: "Le Cuir Stretch"
+    volume: 30
+    kd: null
+    scheduled_date: "2026-09-11"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "histoire du cuir dans la mode"
+    category: "La Maison"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-15"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment porter une jupe en cuir en hiver"
+    category: "Style et Garde-robe"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-09-18"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tannage vegetal cuir"
+    category: "Le Cuir Stretch"
+    volume: 30
+    kd: null
+    scheduled_date: "2026-09-22"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment est fabriquee une veste en cuir"
+    category: "Savoir-faire"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-25"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment porter une chemise en cuir femme"
+    category: "Style et Garde-robe"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-09-29"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # ============ Octobre 2026 ============
+  - kw: "prix du cuir"
+    category: "Le Cuir Stretch"
+    volume: 260
+    kd: null
+    scheduled_date: "2026-10-02"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "plus grandes maisons de couture francaises"
+    category: "La Maison"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-06"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null

@@ -17,6 +17,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 ### Utilisation courante
 
 - `/create-article` : creer un nouvel article de blog (choix parmi plusieurs types : article standard, comparatif). Push automatiquement sur GitHub si le repo est configure
+- `/create-article-seo` : **production evergreen SEO en batch** (methode 2 du reseau PBN datashake). Brief SEO complet avant chaque redaction, modele Opus 4.8 obligatoire, articles bilingues FR+EN avec `publishDate` futur, publication automatique via le cron GitHub Actions (mardi + vendredi 3h Paris). Pilote par `roadmap.yaml` a la racine. Voir section "Publications evergreen automatiques" plus bas
 - `/seo-setup` : generer ou mettre a jour les fichiers SEO techniques de base (robots.txt, llms.txt, sitemap, structured data)
 - `/seo` : mode interactif pour modifier/ajouter des elements SEO (meta tags, JSON-LD, audit on-page, etc.)
 - `/serve` : lancer le serveur Hugo en local (previsualisation sur `http://localhost:1313/`)
@@ -138,6 +139,34 @@ Cette limite sert a eviter la publication en masse et a maintenir un rythme de p
 - Le CSS respecte `prefers-reduced-motion` pour desactiver les animations si l'utilisateur le demande
 - Les articles affichent une table des matieres (TOC) sticky en sidebar, generee automatiquement par Hugo
 - Les articles similaires sont affiches en bas de page, calcules par Hugo via la config `[related]` dans hugo.toml
+
+## Publications evergreen automatiques (methode 2 : batch local + GitHub Actions cron)
+
+Ce blog utilise la **methode 2** du systeme PBN GEO datashake (comme ma-bonne-sante), avec deux exigences supplementaires propres a Jitrois :
+
+- **Modele : Opus 4.8 obligatoire** pour le brief et la redaction (client luxe, qualite max, aucun compromis)
+- **Brief SEO complet avant chaque redaction** (analyse SERP + fetch concurrents, title/meta/H1, plan Hn avec consignes par section, FAQ, maillage, champ semantique), puis redaction conforme au brief, puis auto-controle bloquant (interdits, typo, densite kw, liens)
+
+### Principe
+
+1. Charlie renseigne les mots-cles dans `roadmap.yaml` (`status: todo`, scheduled_date mardi ou vendredi)
+2. Environ 1x/mois, Charlie lance `/create-article-seo` en local : brief + redaction FR/EN pour chaque entree, articles ecrits avec `publishDate` futur, status passe a `queued`
+3. Relecture possible, puis commit + push sur main (compte GitHub `analytics-ds`)
+4. Le cron GitHub Actions (`.github/workflows/hugo.yml`, `0 1 * * 2,5` = mardi + vendredi 3h Paris) rebuild le site : les articles dont `publishDate <= today` apparaissent automatiquement
+
+### Roadmap
+
+Fichier : `roadmap.yaml` a la racine (24 entrees au 2026-07-13, source Haloscan juillet 2026). Statuts : `todo` (a produire), `queued` (redige, en attente du cron), `failed` (erreur, voir `error`).
+
+Regles propres a la roadmap Jitrois :
+- Jamais de sujet entretien/nettoyage, jamais de registre sexy/fetiche
+- Jamais de requete commerciale possedee par jitrois.com (anti-cannibalisation)
+- Diversite des categories : jamais 2 articles consecutifs de la meme categorie, au moins 3 categories distinctes sur toute fenetre de 5 articles
+- Cadence 2/semaine (mardi + vendredi), en tenant compte du quota global 4 articles/semaine (articles GEO manuels inclus)
+
+### Images
+
+Les articles evergreen utilisent UNIQUEMENT le pool de visuels Jitrois (`static/images/blog/`, credit "© Jitrois") ou des visuels recuperes sur jitrois.com. Jamais Openverse/fetch-image.sh sur ce blog (DA monochrome, visuels marque uniquement).
 
 ## Comment repondre a l'utilisateur
 
