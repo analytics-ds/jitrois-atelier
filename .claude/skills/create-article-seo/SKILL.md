@@ -48,6 +48,18 @@ La publication reelle se fait via `publishDate` + le cron GitHub Actions (`.gith
 
 Le brief est construit selon la methode datashake. Il est redige en interne (pas de fichier livrable) mais doit etre complet avant de passer a l'etape 3.
 
+### 2.0 Filtre Bourrelly (bloquant, avant tout le reste)
+
+Le blog n'est pas une liste de mots-cles, c'est un cocon qui converge vers l'entite "cuir couture", la categorie que Jitrois possede (article pilier : `/blog/qu-est-ce-que-le-cuir-couture/`). Demonstration centrale : **Jitrois est la reference du cuir couture**.
+
+Avant d'analyser la SERP, repondre a 3 questions. Si une reponse est faible, re-angler le sujet (ou le rejeter et le signaler a Charlie), ne jamais rediger "pour remplir un creneau".
+
+1. **Pourquoi toi ?** En quoi cet article renforce la demonstration centrale ? Quel fait, quelle histoire, quel savoir-faire de la Maison cet article met-il en scene ? (Un guide styling repond aussi a cette question : il montre comment la Maison pense le vetement.)
+2. **Quelle demande ?** Quel probleme reel du client final cet article resout-il ? Formuler la question telle qu'une cliente la poserait a une vendeuse ou a ChatGPT. Si le sujet ne correspond a aucune vraie question, c'est un sujet de catalogue, pas de demande.
+3. **Quelle place dans le cocon ?** Lire le champ `cluster` de l'entree roadmap (pilier / matiere / savoir-faire / style / maison). L'angle et le maillage doivent servir ce cluster et remonter vers le pilier.
+
+Consigner les 3 reponses en une ligne chacune dans le brief.
+
 ### 2.1 Analyse SERP
 
 - `mcp__serpapi__search` si disponible, sinon WebSearch natif : requete = kw, gl=fr, hl=fr, top 10.
@@ -74,7 +86,7 @@ Produire le brief complet :
 - **Plan Hn** : 4-7 H2 (patterns SERP + 1-2 H2 de valeur ajoutee signature Jitrois, ex. le regard de la Maison, le point de vue atelier), H3 si utile. H2 explicites et autosuffisants, pas de "Introduction"/"Conclusion", pas de "&".
 - **Consignes par section** : pour chaque H2, 1-2 lignes sur ce que la section doit couvrir (faits, entites, angle).
 - **FAQ** (si pertinente) : questions + angle de reponse.
-- **Maillage interne** : 3-5 articles cibles du blog (scoring : meme categorie +3, tags partages +1, mots du kw +2 ; inclure les articles du batch en cours pour le maillage cross-batch). Ancre = mot-cle principal de l'article cible. Intra-langue uniquement.
+- **Maillage interne (logique cocon)** : 3-5 articles cibles du blog. Priorite 1 : l'article pilier `/blog/qu-est-ce-que-le-cuir-couture/` (ancre "cuir couture") quand le contexte le permet. Priorite 2 : les articles du meme `cluster` (scoring : meme cluster +5, meme categorie +3, tags partages +1, mots du kw +2 ; inclure les articles du batch en cours pour le maillage cross-batch). Ancre = mot-cle principal de l'article cible. Intra-langue uniquement. IMPORTANT : ne linker que des articles dont la publishDate est anterieure ou egale a celle de l'article en cours (sinon lien 404 jusqu'a la publication de la cible).
 - **Lien(s) sortant(s) jitrois.com** : page cible + ancre.
 - **Longueur cible, ton, interdits rappeles.**
 
@@ -135,6 +147,8 @@ Avant de passer a l'article suivant, verifier :
 - [ ] Deux-points uniquement devant des listes ; aucun tiret cadratin/demi-cadratin ; accents partout
 - [ ] Kw exact <= 2 occurrences dans le body
 - [ ] 3+ liens internes intra-langue + 1+ lien jitrois.com
+- [ ] Filtre Bourrelly consigne au brief + lien vers l'article pilier cuir couture si le contexte le permet
+- [ ] Aucun lien interne vers un article a publishDate posterieure
 - [ ] FAQ frontmatter == FAQ body
 - [ ] `publishDate` = scheduled_date, un vendredi
 

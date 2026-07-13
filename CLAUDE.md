@@ -154,9 +154,14 @@ Ce blog utilise la **methode 2** du systeme PBN GEO datashake (comme ma-bonne-sa
 3. Relecture possible, puis commit + push sur main (compte GitHub `analytics-ds`)
 4. Le cron GitHub Actions (`.github/workflows/hugo.yml`, `0 1 * * 5` = vendredi 3h Paris) rebuild le site : les articles dont `publishDate <= today` apparaissent automatiquement
 
-### Roadmap
+### Roadmap et cocon (doctrine Bourrelly)
 
-Fichier : `roadmap.yaml` a la racine (24 entrees au 2026-07-13, source Haloscan juillet 2026). Statuts : `todo` (a produire), `queued` (redige, en attente du cron), `failed` (erreur, voir `error`).
+Fichier : `roadmap.yaml` a la racine (25 entrees au 2026-07-13, source Haloscan juillet 2026). Statuts : `todo` (a produire), `queued` (redige, en attente du cron), `failed` (erreur, voir `error`).
+
+La roadmap est structuree en **cocon semantique** convergeant vers l'entite "cuir couture", la categorie que Jitrois possede. Demonstration centrale : Jitrois est la reference du cuir couture. Article pilier : `/blog/qu-est-ce-que-le-cuir-couture/`. Chaque entree porte un champ `cluster` (pilier / matiere / savoir-faire / style / maison). Regles :
+- Chaque brief passe le **filtre Bourrelly** (pourquoi toi ? quelle demande ? quelle place dans le cocon ?) documente dans la skill `/create-article-seo`
+- Chaque article linke le pilier quand le contexte le permet (ancre "cuir couture") + en priorite son propre cluster
+- Jamais de lien interne vers un article a publishDate posterieure (404 jusqu'a publication)
 
 Regles propres a la roadmap Jitrois :
 - Jamais de sujet entretien/nettoyage, jamais de registre sexy/fetiche

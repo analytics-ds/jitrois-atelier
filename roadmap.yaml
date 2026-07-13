@@ -24,6 +24,23 @@
 #   pages produit/collection). On LINKE vers ces pages, on ne les concurrence pas.
 #   Requetes commerciales ("pantalon en cuir", "robe en cuir"...) interdites ici.
 #
+# STRUCTURE EN COCON (doctrine Bourrelly)
+# ----------------------------------------
+# La roadmap n'est pas une liste de mots-cles, c'est un cocon semantique qui
+# converge vers l'entite "cuir couture", la categorie que Jitrois possede.
+# Demonstration centrale : Jitrois est la reference du cuir couture.
+#
+# Article PILIER : "qu'est-ce que le cuir couture" (/blog/qu-est-ce-que-le-cuir-couture/)
+# 4 clusters qui alimentent le pilier :
+#   - matiere       la matiere du cuir couture (nappa, agneau plonge, tannage, qualite)
+#   - savoir-faire  les methodes du cuir couture (couture, sur-mesure, made in France)
+#   - style         l'art de porter le cuir couture (guides comment porter)
+#   - maison        l'heritage (histoire, invention du cuir stretch, maisons de couture)
+#
+# Regle de maillage : chaque article linke le pilier quand le contexte le permet
+# (ancre "cuir couture") + en priorite les articles de son propre cluster.
+# Chaque brief doit passer le FILTRE BOURRELLY documente dans la skill.
+#
 # REGLE DE DIVERSITE DES CATEGORIES (obligatoire)
 # -----------------------------------------------
 #   1. JAMAIS 2 articles consecutifs (par scheduled_date) de la meme categorie.
@@ -38,6 +55,7 @@
 # Edites par l'humain :
 #   kw              Mot-cle principal SEO cible (FR)
 #   category        Categorie du blog (liste ci-dessus)
+#   cluster         pilier | matiere | savoir-faire | style | maison (cocon)
 #   volume          Volume mensuel de recherche (informatif, ignore par l'agent)
 #   kd              Difficulte 0-100 ou null (informatif)
 #   scheduled_date  YYYY-MM-DD, date de publication cible (publishDate de l'article)
@@ -56,6 +74,7 @@ articles:
   # ============ Juillet 2026 ============
   - kw: "qu'est-ce que le cuir couture"
     category: "Savoir-faire"
+    cluster: "pilier"
     volume: 50
     kd: null
     scheduled_date: "2026-07-17"
@@ -67,6 +86,7 @@ articles:
 
   - kw: "comment porter une jupe en cuir"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 110
     kd: null
     scheduled_date: "2026-07-24"
@@ -78,6 +98,7 @@ articles:
 
   - kw: "cuir nappa c'est quoi"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: 140
     kd: null
     scheduled_date: "2026-07-31"
@@ -90,6 +111,7 @@ articles:
   # ============ Aout 2026 ============
   - kw: "difference entre haute couture et pret a porter"
     category: "Savoir-faire"
+    cluster: "savoir-faire"
     volume: null
     kd: null
     scheduled_date: "2026-08-07"
@@ -101,6 +123,7 @@ articles:
 
   - kw: "comment porter une veste en cuir femme"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 30
     kd: null
     scheduled_date: "2026-08-14"
@@ -112,6 +135,7 @@ articles:
 
   - kw: "comment reconnaitre un cuir de qualite"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: null
     kd: null
     scheduled_date: "2026-08-21"
@@ -123,6 +147,7 @@ articles:
 
   - kw: "qui a invente le cuir stretch"
     category: "La Maison"
+    cluster: "maison"
     volume: null
     kd: null
     scheduled_date: "2026-08-28"
@@ -135,6 +160,7 @@ articles:
   # ============ Septembre 2026 ============
   - kw: "comment porter un legging en cuir"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 30
     kd: null
     scheduled_date: "2026-09-04"
@@ -146,6 +172,7 @@ articles:
 
   - kw: "comment est fait le cuir"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: 90
     kd: null
     scheduled_date: "2026-09-11"
@@ -157,6 +184,7 @@ articles:
 
   - kw: "vetement en cuir sur mesure"
     category: "Savoir-faire"
+    cluster: "savoir-faire"
     volume: null
     kd: null
     scheduled_date: "2026-09-18"
@@ -168,6 +196,7 @@ articles:
 
   - kw: "que mettre avec une robe en cuir"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 20
     kd: null
     scheduled_date: "2026-09-25"
@@ -180,6 +209,7 @@ articles:
   # ============ Octobre 2026 ============
   - kw: "cuir agneau"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: 390
     kd: null
     scheduled_date: "2026-10-02"
@@ -191,6 +221,7 @@ articles:
 
   - kw: "histoire du perfecto"
     category: "La Maison"
+    cluster: "maison"
     volume: null
     kd: null
     scheduled_date: "2026-10-09"
@@ -202,6 +233,7 @@ articles:
 
   - kw: "comment porter un short en cuir"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 70
     kd: null
     scheduled_date: "2026-10-16"
@@ -213,6 +245,7 @@ articles:
 
   - kw: "cuir agneau plonge"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: 70
     kd: null
     scheduled_date: "2026-10-23"
@@ -224,6 +257,7 @@ articles:
 
   - kw: "vetement cuir made in france"
     category: "Savoir-faire"
+    cluster: "savoir-faire"
     volume: null
     kd: null
     scheduled_date: "2026-10-30"
@@ -236,6 +270,7 @@ articles:
   # ============ Novembre 2026 ============
   - kw: "comment porter un blouson en cuir homme"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 20
     kd: null
     scheduled_date: "2026-11-06"
@@ -247,6 +282,7 @@ articles:
 
   - kw: "cuir veritable definition"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: 30
     kd: null
     scheduled_date: "2026-11-13"
@@ -258,6 +294,7 @@ articles:
 
   - kw: "histoire du cuir dans la mode"
     category: "La Maison"
+    cluster: "maison"
     volume: null
     kd: null
     scheduled_date: "2026-11-20"
@@ -269,6 +306,7 @@ articles:
 
   - kw: "comment porter une jupe en cuir en hiver"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 20
     kd: null
     scheduled_date: "2026-11-27"
@@ -281,6 +319,7 @@ articles:
   # ============ Decembre 2026 ============
   - kw: "tannage vegetal cuir"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: 30
     kd: null
     scheduled_date: "2026-12-04"
@@ -292,6 +331,7 @@ articles:
 
   - kw: "comment est fabriquee une veste en cuir"
     category: "Savoir-faire"
+    cluster: "savoir-faire"
     volume: null
     kd: null
     scheduled_date: "2026-12-11"
@@ -303,6 +343,7 @@ articles:
 
   - kw: "comment porter une chemise en cuir femme"
     category: "Style et Garde-robe"
+    cluster: "style"
     volume: 20
     kd: null
     scheduled_date: "2026-12-18"
@@ -314,6 +355,7 @@ articles:
 
   - kw: "prix du cuir"
     category: "Le Cuir Stretch"
+    cluster: "matiere"
     volume: 260
     kd: null
     scheduled_date: "2026-12-25"
@@ -326,6 +368,7 @@ articles:
   # ============ Janvier 2027 ============
   - kw: "plus grandes maisons de couture francaises"
     category: "La Maison"
+    cluster: "maison"
     volume: null
     kd: null
     scheduled_date: "2027-01-01"

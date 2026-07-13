@@ -53,7 +53,7 @@ Le principe sous-jacent est celui que nous appliquons à toutes les pièces de l
 
 Sur une robe, la veste en cuir produit l'un des plus beaux contrastes du vestiaire féminin. Une robe fluide ou fleurie y gagne une modernité immédiate, une petite robe noire y gagne du caractère. Portez la veste ouverte, épaules souples, pour préserver la ligne de la robe, et montez sur des talons fins pour étirer la silhouette.
 
-C'est dans cet exercice que la coupe fait toute la différence. Une veste construite comme une pièce de couture, épaules dessinées et taille suivie, tient l'allure du soir sans effort, là où un blouson générique retombe dans le registre décontracté.
+C'est dans cet exercice que la coupe fait toute la différence. Une veste construite selon les principes du [cuir couture](/blog/qu-est-ce-que-le-cuir-couture/), épaules dessinées et taille suivie, tient l'allure du soir sans effort, là où un blouson générique retombe dans le registre décontracté.
 
 ## La couleur, une règle simple
 

@@ -53,7 +53,7 @@ The underlying principle is the one we apply to every piece of the House, the co
 
 Over a dress, the leather jacket produces one of the most beautiful contrasts in the female wardrobe. A fluid or floral dress gains immediate modernity, a little black dress gains character. Wear the jacket open, shoulders relaxed, to preserve the line of the dress, and step onto fine heels to stretch the silhouette.
 
-It is in this exercise that the cut makes all the difference. A jacket built like a couture piece, with drawn shoulders and a followed waist, holds an evening allure effortlessly, where a generic blouson falls back into the casual register.
+It is in this exercise that the cut makes all the difference. A jacket built on the principles of [leather couture](/en/blog/what-is-leather-couture/), with drawn shoulders and a followed waist, holds an evening allure effortlessly, where a generic blouson falls back into the casual register.
 
 ## Colour, One Simple Rule
 
