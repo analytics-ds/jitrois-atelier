@@ -145,18 +145,6 @@ articles:
     published_url_en: "https://atelier.jitrois.com/en/blog/how-to-recognise-quality-leather/"
     error: null
 
-  - kw: "qui a invente le cuir stretch"
-    category: "La Maison"
-    cluster: "maison"
-    volume: null
-    kd: null
-    scheduled_date: "2026-09-04"
-    status: failed
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: "hors publication : faits non verifies (annee d'invention, collaboration DuPont) + cannibalisation page heritage jitrois.com. A retravailler avec faits valides par le client."
-
   # ============ Septembre 2026 ============
   - kw: "comment porter un legging en cuir"
     category: "Style et Garde-robe"
