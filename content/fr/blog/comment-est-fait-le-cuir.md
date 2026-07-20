@@ -4,6 +4,7 @@ translationKey: "comment-est-fait-le-cuir"
 publishDate: "2026-09-18"
 date: "2026-07-20"
 lastmod: "2026-07-20"
+description: "Comment est fait le cuir ? Les etapes de fabrication, du travail de riviere au tannage et aux finitions, expliquees par la Maison Jitrois."
 categories:
   - "Le Cuir Stretch"
 tags:

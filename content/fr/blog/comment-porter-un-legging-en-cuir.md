@@ -4,6 +4,7 @@ translationKey: "comment-porter-legging-cuir"
 publishDate: "2026-09-11"
 date: "2026-07-20"
 lastmod: "2026-07-20"
+description: "Comment porter un legging en cuir avec elegance ? Les conseils de style de la Maison Jitrois pour une allure chic et maitrisee."
 categories: ["Style et Garde-robe"]
 author: "magalie-ergoz"
 image: "images/blog/pantalon-cuir.jpg"

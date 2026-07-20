@@ -4,6 +4,7 @@ translationKey: "comment-porter-legging-cuir"
 publishDate: "2026-09-11"
 date: "2026-07-20"
 lastmod: "2026-07-20"
+description: "How to wear leather leggings with elegance? Maison Jitrois styling advice for a chic, balanced silhouette."
 categories: ["Style and Wardrobe"]
 author: "magalie-ergoz"
 image: "images/blog/pantalon-cuir.jpg"

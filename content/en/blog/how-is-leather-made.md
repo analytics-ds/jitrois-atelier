@@ -4,6 +4,7 @@ translationKey: "comment-est-fait-le-cuir"
 publishDate: "2026-09-18"
 date: "2026-07-20"
 lastmod: "2026-07-20"
+description: "How is leather made? The stages of manufacture, from the beamhouse to tanning and finishing, explained by Maison Jitrois."
 categories:
   - "Stretch Leather"
 tags:

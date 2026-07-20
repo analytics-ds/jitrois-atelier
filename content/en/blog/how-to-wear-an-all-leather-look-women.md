@@ -4,7 +4,7 @@ translationKey: "total-look-cuir-femme"
 date: "2026-07-20"
 lastmod: "2026-07-20"
 publishDate: "2026-09-25"
-description: "How to compose a women's all-leather look with elegance? Maison Jitrois shares its advice for wearing leather from head to toe, without a false note."
+description: "Compose an all-leather women's look with elegance: Maison Jitrois styling advice for a head-to-toe leather silhouette."
 categories: ["Style and Wardrobe"]
 tags: ["womens all leather look", "leather look", "stretch leather", "leather couture", "style"]
 author: "magalie-ergoz"

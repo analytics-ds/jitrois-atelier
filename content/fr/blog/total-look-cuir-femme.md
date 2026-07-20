@@ -4,7 +4,7 @@ translationKey: "total-look-cuir-femme"
 date: "2026-07-20"
 lastmod: "2026-07-20"
 publishDate: "2026-09-25"
-description: "Comment composer un total look cuir femme avec élégance ? Les conseils de la Maison Jitrois pour porter le cuir des pieds à la tête, sans faute de goût."
+description: "Composer un total look cuir femme avec elegance : les conseils de style de la Maison Jitrois pour une silhouette tout en cuir."
 categories: ["Style et Garde-robe"]
 tags: ["total look cuir femme", "look cuir", "cuir stretch", "cuir couture", "style"]
 author: "magalie-ergoz"
