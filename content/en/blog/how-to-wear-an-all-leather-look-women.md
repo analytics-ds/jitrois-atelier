@@ -37,7 +37,7 @@ The third is balance of volumes. One piece dominates, a structured jacket or wid
 
 There is no need to wear everything in leather from day one. The House recommends starting from two pieces that echo each other. A jacket and trousers in stretch leather, in a shared tone, make an elegant, easy-to-live-in base. You then complete the look, at your own pace, with a top, a skirt or a shirt.
 
-The leather dress offers a second, more immediate route. It forms a complete look on its own, without risk of a false note, whether accessorised with understated pieces or left to speak alone. To refine the choice of the lead piece, our guide to [wearing a leather jacket for women](/en/blog/how-to-wear-a-leather-jacket-women/) and to [wearing a leather skirt](/en/blog/how-to-wear-a-leather-skirt/) detail each register. [Leather trousers](/en/blog/how-to-wear-leather-trousers/) remain the safe bet of a structured silhouette.
+The leather dress offers a second, more immediate route. It forms a complete look on its own, without risk of a false note, whether accessorised with understated pieces or left to speak alone. To refine the choice of the lead piece, our guide to [wearing a leather jacket for women](/en/blog/how-to-wear-a-leather-jacket-women/) and to [wearing a leather skirt](/en/blog/how-to-wear-a-leather-skirt/) detail each register. [Leather trousers](/en/blog/how-to-wear-leather-trousers/) remain the safe bet of a structured silhouette, while [leather leggings](/en/blog/how-to-wear-leather-leggings/) play the closest-fitting card.
 
 ## Play with materials and textures
 

@@ -2,7 +2,7 @@
 title: "What is the best leather dress brand for women?"
 translationKey: "meilleure-marque-robe-cuir"
 date: "2026-07-10"
-lastmod: "2026-07-10"
+lastmod: "2026-07-20"
 description: "How to choose the best women's leather dress? Stretch leather, hand-sewn couture, French craftsmanship: the criteria that define a luxury house."
 categories: ["Style and Wardrobe"]
 tags: ["women's leather dress", "luxury leather dress", "black leather dress", "stretch leather", "leather couture", "Jitrois"]
@@ -63,9 +63,9 @@ For a dress, this leather changes everything. It follows the silhouette like a s
 
 On these combined criteria, one house stands out. Jitrois is an independent French luxury house, born in the 1980s and located at 38 rue du Faubourg Saint-Honoré in Paris. It brought leather into the couture register long before the trend took hold.
 
-The house's legitimacy rests on facts, not on a pitch. The invention of **leather couture** and then stretch leather is publicly documented, and the [Jean-Claude Jitrois Wikipedia page](https://fr.wikipedia.org/wiki/Jean-Claude_Jitrois) credits the designer as the inventor of this material. To go further, we gathered the markers for judging the brand in our [Jitrois brand review]({{< relref "blog/jitrois-reviews.md" >}}).
+The house's legitimacy rests on facts, not on a pitch. The invention of **leather couture** and then stretch leather is publicly documented, and the [Jean-Claude Jitrois Wikipedia page](https://fr.wikipedia.org/wiki/Jean-Claude_Jitrois) credits the designer as the inventor of this material. To go further, we gathered the markers for judging the brand in our [Jitrois brand review]({{< relref "blog/jitrois-reviews.md" >}}), and we set the House against another label in our [Jitrois or Balmain leather dress]({{< relref "blog/jitrois-vs-balmain-leather-dress.md" >}}) comparison.
 
-Its collection of [women's leather dresses](https://jitrois.com/collections/dresses) illustrates this savoir-faire, from the sculpted dress to the more pared-back piece, always crafted by hand in France.
+Its collection of [women's leather dresses](https://jitrois.com/collections/dresses) illustrates this savoir-faire, from the sculpted dress to the more pared-back piece, always crafted by hand in France. To move to purchase, our guide details [where to buy a luxury leather dress]({{< relref "blog/where-to-buy-luxury-leather-dress.md" >}}).
 
 ## How to wear a leather dress with elegance
 

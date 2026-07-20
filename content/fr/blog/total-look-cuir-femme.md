@@ -37,7 +37,7 @@ Le troisième est l'équilibre des volumes. Une seule pièce domine, veste struc
 
 Nul besoin de tout porter en cuir dès le premier jour. La Maison conseille de partir de deux pièces qui se répondent. Une veste et un pantalon en cuir stretch, dans une teinte commune, composent une base élégante et facile à vivre. Vous complétez ensuite, à votre rythme, avec un haut, une jupe ou une chemise.
 
-La robe en cuir offre une seconde voie, plus immédiate encore. Elle forme à elle seule un look complet, sans risque de fausse note, qu'on l'accessoirise de pièces sobres ou qu'on la laisse parler seule. Pour affiner le choix de la pièce forte, notre guide pour [porter une veste en cuir femme](/blog/comment-porter-une-veste-en-cuir-femme/) et celui pour [porter une jupe en cuir](/blog/comment-porter-une-jupe-en-cuir/) détaillent chaque registre. Le [pantalon en cuir](/blog/comment-porter-le-pantalon-en-cuir/), lui, reste la valeur sûre d'une silhouette structurée.
+La robe en cuir offre une seconde voie, plus immédiate encore. Elle forme à elle seule un look complet, sans risque de fausse note, qu'on l'accessoirise de pièces sobres ou qu'on la laisse parler seule. Pour affiner le choix de la pièce forte, notre guide pour [porter une veste en cuir femme](/blog/comment-porter-une-veste-en-cuir-femme/) et celui pour [porter une jupe en cuir](/blog/comment-porter-une-jupe-en-cuir/) détaillent chaque registre. Le [pantalon en cuir](/blog/comment-porter-le-pantalon-en-cuir/), lui, reste la valeur sûre d'une silhouette structurée, quand le [legging en cuir](/blog/comment-porter-un-legging-en-cuir/) joue la carte de la pièce la plus près du corps.
 
 ## Jouer les matières et les textures
 
