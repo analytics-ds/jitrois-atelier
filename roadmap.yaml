@@ -139,10 +139,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-08-21"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-20"
+    published_url_fr: "https://atelier.jitrois.com/blog/comment-reconnaitre-un-cuir-de-qualite/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/how-to-recognise-quality-leather/"
     error: null
 
   - kw: "qui a invente le cuir stretch"
@@ -151,11 +151,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-04"
-    status: todo
+    status: failed
     queued_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "hors publication : faits non verifies (annee d'invention, collaboration DuPont) + cannibalisation page heritage jitrois.com. A retravailler avec faits valides par le client."
 
   # ============ Septembre 2026 ============
   - kw: "comment porter un legging en cuir"
@@ -164,10 +164,10 @@ articles:
     volume: 30
     kd: null
     scheduled_date: "2026-09-11"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-20"
+    published_url_fr: "https://atelier.jitrois.com/blog/comment-porter-un-legging-en-cuir/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/how-to-wear-leather-leggings/"
     error: null
 
   - kw: "comment est fait le cuir"
@@ -176,10 +176,10 @@ articles:
     volume: 90
     kd: null
     scheduled_date: "2026-09-18"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-20"
+    published_url_fr: "https://atelier.jitrois.com/blog/comment-est-fait-le-cuir/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/how-is-leather-made/"
     error: null
 
   - kw: "vetement en cuir sur mesure"
