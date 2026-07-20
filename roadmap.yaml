@@ -175,7 +175,7 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-10-02"
+    scheduled_date: "2026-09-29"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -187,7 +187,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-10-09"
+    scheduled_date: "2026-10-02"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -200,19 +200,19 @@ articles:
     cluster: "matiere"
     volume: 390
     kd: null
-    scheduled_date: "2026-10-16"
+    scheduled_date: "2026-10-06"
     status: todo
     queued_date: null
     published_url_fr: null
     published_url_en: null
     error: null
 
-  - kw: "histoire du perfecto"
+  - kw: "le perfecto en cuir : definition et alternatives luxe"
     category: "La Maison"
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-10-23"
+    scheduled_date: "2026-10-09"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -224,7 +224,7 @@ articles:
     cluster: "style"
     volume: 70
     kd: null
-    scheduled_date: "2026-10-30"
+    scheduled_date: "2026-10-13"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -236,7 +236,7 @@ articles:
     cluster: "matiere"
     volume: 70
     kd: null
-    scheduled_date: "2026-11-06"
+    scheduled_date: "2026-10-16"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -248,7 +248,7 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-11-13"
+    scheduled_date: "2026-10-20"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -261,7 +261,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-11-20"
+    scheduled_date: "2026-10-23"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -273,7 +273,7 @@ articles:
     cluster: "matiere"
     volume: 30
     kd: null
-    scheduled_date: "2026-11-27"
+    scheduled_date: "2026-10-27"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -285,7 +285,7 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-12-04"
+    scheduled_date: "2026-10-30"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -297,7 +297,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-12-11"
+    scheduled_date: "2026-11-03"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -310,7 +310,7 @@ articles:
     cluster: "matiere"
     volume: 30
     kd: null
-    scheduled_date: "2026-12-18"
+    scheduled_date: "2026-11-06"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -322,7 +322,7 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-12-25"
+    scheduled_date: "2026-11-10"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -334,7 +334,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2027-01-01"
+    scheduled_date: "2026-11-13"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -346,7 +346,7 @@ articles:
     cluster: "matiere"
     volume: 260
     kd: null
-    scheduled_date: "2027-01-08"
+    scheduled_date: "2026-11-17"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -359,7 +359,7 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2027-01-15"
+    scheduled_date: "2026-11-20"
     status: todo
     queued_date: null
     published_url_fr: null
