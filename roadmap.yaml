@@ -150,7 +150,7 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-08-28"
+    scheduled_date: "2026-09-04"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -163,7 +163,7 @@ articles:
     cluster: "style"
     volume: 30
     kd: null
-    scheduled_date: "2026-09-04"
+    scheduled_date: "2026-09-11"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -175,7 +175,7 @@ articles:
     cluster: "matiere"
     volume: 90
     kd: null
-    scheduled_date: "2026-09-11"
+    scheduled_date: "2026-09-18"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -187,7 +187,7 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-09-18"
+    scheduled_date: "2026-10-02"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -199,7 +199,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-09-25"
+    scheduled_date: "2026-10-09"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -212,7 +212,7 @@ articles:
     cluster: "matiere"
     volume: 390
     kd: null
-    scheduled_date: "2026-10-02"
+    scheduled_date: "2026-10-16"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -224,7 +224,7 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-10-09"
+    scheduled_date: "2026-10-23"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -236,7 +236,7 @@ articles:
     cluster: "style"
     volume: 70
     kd: null
-    scheduled_date: "2026-10-16"
+    scheduled_date: "2026-10-30"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -248,7 +248,7 @@ articles:
     cluster: "matiere"
     volume: 70
     kd: null
-    scheduled_date: "2026-10-23"
+    scheduled_date: "2026-11-06"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -260,7 +260,7 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-10-30"
+    scheduled_date: "2026-11-13"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -273,7 +273,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-11-06"
+    scheduled_date: "2026-11-20"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -285,7 +285,7 @@ articles:
     cluster: "matiere"
     volume: 30
     kd: null
-    scheduled_date: "2026-11-13"
+    scheduled_date: "2026-11-27"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -297,7 +297,7 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-11-20"
+    scheduled_date: "2026-12-04"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -309,7 +309,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-11-27"
+    scheduled_date: "2026-12-11"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -322,7 +322,7 @@ articles:
     cluster: "matiere"
     volume: 30
     kd: null
-    scheduled_date: "2026-12-04"
+    scheduled_date: "2026-12-18"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -334,7 +334,7 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-12-11"
+    scheduled_date: "2026-12-25"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -346,7 +346,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-12-18"
+    scheduled_date: "2027-01-01"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -358,7 +358,7 @@ articles:
     cluster: "matiere"
     volume: 260
     kd: null
-    scheduled_date: "2026-12-25"
+    scheduled_date: "2027-01-08"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -371,7 +371,33 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2027-01-01"
+    scheduled_date: "2027-01-15"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # ============ Ajouts focus rentree (2026-07-20) ============
+
+  - kw: "comment porter un pantalon en cuir femme"
+    category: "Style et Garde-robe"
+    cluster: "style"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-28"
+    status: todo
+    queued_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "total look cuir femme"
+    category: "Style et Garde-robe"
+    cluster: "style"
+    volume: 170
+    kd: null
+    scheduled_date: "2026-09-25"
     status: todo
     queued_date: null
     published_url_fr: null
