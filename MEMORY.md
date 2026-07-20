@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 39 (21/09/2026 - 27/09/2026)
+- 2026-09-25 | Total look cuir femme : composer une tenue tout en cuir / Women's all-leather look (FR+EN) | Style et Garde-robe | evergreen (queued)
+
 ## Semaine 33 (10/08/2026 - 16/08/2026)
 - 2026-08-14 | Comment porter une veste en cuir pour femme / How to Wear a Leather Jacket for Women (FR+EN) | Style et Garde-robe | evergreen (queued)
 

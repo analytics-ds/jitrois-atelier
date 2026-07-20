@@ -386,11 +386,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-08-28"
-    status: todo
+    status: failed
     queued_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "cannibalisation blog : article comment-porter-le-pantalon-en-cuir deja publie. A retirer ou re-angler (validation Charlie)."
 
   - kw: "total look cuir femme"
     category: "Style et Garde-robe"
@@ -398,8 +398,8 @@ articles:
     volume: 170
     kd: null
     scheduled_date: "2026-09-25"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-20"
+    published_url_fr: "https://atelier.jitrois.com/blog/total-look-cuir-femme/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/how-to-wear-an-all-leather-look-women/"
     error: null
