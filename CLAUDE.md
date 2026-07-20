@@ -17,7 +17,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 ### Utilisation courante
 
 - `/create-article` : creer un nouvel article de blog (choix parmi plusieurs types : article standard, comparatif). Push automatiquement sur GitHub si le repo est configure
-- `/create-article-seo` : **production evergreen SEO en batch** (methode 2 du reseau PBN datashake). Brief SEO complet avant chaque redaction, modele Opus 4.8 obligatoire, articles bilingues FR+EN avec `publishDate` futur, publication automatique via le cron GitHub Actions (vendredi 3h Paris, cadence 1 article/semaine). Pilote par `roadmap.yaml` a la racine. Voir section "Publications evergreen automatiques" plus bas
+- `/create-article-seo` : **production evergreen SEO en batch** (methode 2 du reseau PBN datashake). Brief SEO complet avant chaque redaction, modele Opus 4.8 obligatoire, articles bilingues FR+EN avec `publishDate` futur, publication automatique via le cron GitHub Actions (mardi + vendredi 3h Paris, cadence 2 articles/semaine). Pilote par `roadmap.yaml` a la racine. Voir section "Publications evergreen automatiques" plus bas
 - `/seo-setup` : generer ou mettre a jour les fichiers SEO techniques de base (robots.txt, llms.txt, sitemap, structured data)
 - `/seo` : mode interactif pour modifier/ajouter des elements SEO (meta tags, JSON-LD, audit on-page, etc.)
 - `/serve` : lancer le serveur Hugo en local (previsualisation sur `http://localhost:1313/`)
@@ -152,7 +152,7 @@ Ce blog utilise la **methode 2** du systeme PBN GEO datashake (comme ma-bonne-sa
 1. Charlie renseigne les mots-cles dans `roadmap.yaml` (`status: todo`, scheduled_date un vendredi)
 2. Environ 1x/mois, Charlie lance `/create-article-seo` en local : brief + redaction FR/EN pour chaque entree, articles ecrits avec `publishDate` futur, status passe a `queued`
 3. Relecture possible, puis commit + push sur main (compte GitHub `analytics-ds`)
-4. Le cron GitHub Actions (`.github/workflows/hugo.yml`, `0 1 * * 5` = vendredi 3h Paris) rebuild le site : les articles dont `publishDate <= today` apparaissent automatiquement
+4. Le cron GitHub Actions (`.github/workflows/hugo.yml`, `0 1 * * 2,5` = mardi + vendredi 3h Paris) rebuild le site : les articles dont `publishDate <= today` apparaissent automatiquement
 
 ### Roadmap et cocon (doctrine Bourrelly)
 
@@ -167,7 +167,7 @@ Regles propres a la roadmap Jitrois :
 - Jamais de sujet entretien/nettoyage, jamais de registre sexy/fetiche
 - Jamais de requete commerciale possedee par jitrois.com (anti-cannibalisation)
 - Diversite des categories : jamais 2 articles consecutifs de la meme categorie, au moins 3 categories distinctes sur toute fenetre de 5 articles
-- Cadence 1/semaine (vendredi), en tenant compte du quota global 4 articles/semaine (articles GEO manuels inclus)
+- Cadence 2/semaine (mardi + vendredi), en tenant compte du quota global 4 articles/semaine (articles GEO manuels inclus)
 
 ### Images
 

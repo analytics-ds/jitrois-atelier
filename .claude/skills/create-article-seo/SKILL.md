@@ -5,7 +5,7 @@ Cette skill produit en **local** un ou plusieurs articles evergreen SEO bilingue
 1. **Modele : Opus 4.8 par defaut (OBLIGATOIRE)**. Verifier le modele de la session au lancement. Si la session ne tourne pas sur Opus 4.8, proposer de basculer (`/model opus`) OU deleguer les etapes brief + redaction a un sous-agent avec `model: opus`. Ne JAMAIS rediger un article Jitrois avec un modele inferieur sans accord explicite de Charlie.
 2. **Brief SEO complet avant chaque redaction**. Pas de redaction au fil de l'eau : chaque article passe par un brief formalise (analyse SERP, title/meta, plan Hn avec consignes par section, FAQ, maillage, champ semantique), puis la redaction suit le brief, puis un auto-controle de conformite.
 
-La publication reelle se fait via `publishDate` + le cron GitHub Actions (`.github/workflows/hugo.yml`, `0 1 * * 5` = vendredi 3h Paris). Hugo (`buildFuture: false`) masque les articles a publishDate future ; ils apparaissent automatiquement au rebuild suivant leur date.
+La publication reelle se fait via `publishDate` + le cron GitHub Actions (`.github/workflows/hugo.yml`, `0 1 * * 2,5` = mardi + vendredi 3h Paris). Hugo (`buildFuture: false`) masque les articles a publishDate future ; ils apparaissent automatiquement au rebuild suivant leur date.
 
 ## Quand l'utiliser
 
@@ -41,7 +41,7 @@ La publication reelle se fait via `publishDate` + le cron GitHub Actions (`.gith
 ## Etape 1 — Scheduling
 
 - Defaut : garder les `scheduled_date` de la roadmap.
-- Slots valides : vendredis uniquement (cadence 1 article/semaine).
+- Slots valides : mardis et vendredis (cadence 2 articles/semaine, quota 4/semaine max).
 - Apres tout ajout ou recalage, valider la **regle de diversite** (jamais 2 categories identiques consecutives ; au moins 3 categories distinctes sur toute fenetre de 5). Permuter les dates des entrees en conflit si besoin (jamais celles deja `queued`), logger les permutations.
 
 ## Etape 2 — BRIEF SEO (pour chaque article, avant toute redaction)
@@ -177,7 +177,7 @@ Si push : `git add -A && git commit -m "evergreen: <N> articles (batch <date>)" 
 
 Rappel : le push sur l'org `analytics-ds` necessite le compte GitHub `analytics-ds` (`gh auth switch`).
 
-Apres push : les articles restent invisibles jusqu'au cron de leur publishDate (vendredi 3h Paris).
+Apres push : les articles restent invisibles jusqu'au cron de leur publishDate (mardi + vendredi 3h Paris).
 
 ## Gestion des erreurs
 
