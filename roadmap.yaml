@@ -176,10 +176,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-02"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-20"
+    published_url_fr: "https://atelier.jitrois.com/blog/vetement-en-cuir-sur-mesure/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/made-to-measure-leather-clothing/"
     error: null
 
   - kw: "que mettre avec une robe en cuir"
@@ -213,10 +213,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-04"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-20"
+    published_url_fr: "https://atelier.jitrois.com/blog/le-perfecto-en-cuir-definition-alternatives/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/what-is-a-perfecto-leather-jacket/"
     error: null
 
   - kw: "comment porter un short en cuir"
@@ -286,10 +286,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-29"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: queued
+    queued_date: "2026-07-20"
+    published_url_fr: "https://atelier.jitrois.com/blog/histoire-du-cuir-dans-la-mode/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/history-of-leather-in-fashion/"
     error: null
 
   - kw: "comment porter une jupe en cuir en hiver"
