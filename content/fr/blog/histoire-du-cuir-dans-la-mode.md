@@ -2,7 +2,7 @@
 title: "Histoire du cuir dans la mode, du fonctionnel à la couture"
 description: "Découvrez comment le cuir est passé du vêtement fonctionnel des aviateurs et motards à un incontournable de la haute couture et du prêt-à-porter."
 translationKey: "histoire-cuir-mode"
-publishDate: "2026-09-29"
+publishDate: "2026-08-25"
 date: "2026-07-20"
 lastmod: "2026-07-20"
 categories:

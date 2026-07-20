@@ -175,7 +175,7 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-10-02"
+    scheduled_date: "2026-08-18"
     status: queued
     queued_date: "2026-07-20"
     published_url_fr: "https://atelier.jitrois.com/blog/vetement-en-cuir-sur-mesure/"
@@ -212,7 +212,7 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-09-04"
+    scheduled_date: "2026-08-11"
     status: queued
     queued_date: "2026-07-20"
     published_url_fr: "https://atelier.jitrois.com/blog/le-perfecto-en-cuir-definition-alternatives/"
@@ -285,7 +285,7 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-09-29"
+    scheduled_date: "2026-08-25"
     status: queued
     queued_date: "2026-07-20"
     published_url_fr: "https://atelier.jitrois.com/blog/histoire-du-cuir-dans-la-mode/"

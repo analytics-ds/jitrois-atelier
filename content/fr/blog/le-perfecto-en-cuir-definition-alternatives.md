@@ -4,7 +4,7 @@ slug: "le-perfecto-en-cuir-definition-alternatives"
 translationKey: "le-perfecto-cuir"
 date: "2026-07-20"
 lastmod: "2026-07-20"
-publishDate: "2026-09-04"
+publishDate: "2026-08-11"
 description: "Qu'est-ce qu'un perfecto ? Découvrez la définition, les origines et les alternatives haut de gamme au blouson de moto en cuir emblématique."
 categories: ["La Maison"]
 tags: ["Luxe", "Cuir", "Mode", "Perfecto", "Veste"]

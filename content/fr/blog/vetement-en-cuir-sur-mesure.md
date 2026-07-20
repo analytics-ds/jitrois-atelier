@@ -2,7 +2,7 @@
 title: Vêtement en cuir sur mesure, l'ajustement à votre image
 description: "Découvrez le vêtement en cuir sur mesure, une confection adaptée à votre morphologie et vos envies. Chez Jitrois, le sur-mesure se vit même à distance."
 author: magalie-ergoz
-publishDate: "2026-10-02"
+publishDate: "2026-08-18"
 date: "2026-07-20"
 lastmod: "2026-07-20"
 translationKey: "vetement-cuir-sur-mesure"

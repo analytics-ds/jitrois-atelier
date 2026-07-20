@@ -2,7 +2,7 @@
 title: "History of Leather in Fashion: From Function to Couture"
 description: "Explore how leather evolved from functional clothing worn by aviators and motorcyclists to an essential element of haute couture and ready-to-wear fashion."
 translationKey: "histoire-cuir-mode"
-publishDate: "2026-09-29"
+publishDate: "2026-08-25"
 date: "2026-07-20"
 lastmod: "2026-07-20"
 categories:

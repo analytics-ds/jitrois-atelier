@@ -1,9 +1,5 @@
 # Journal de publication
 
-## Semaine 40 (28/09/2026 - 04/10/2026)
-- 2026-09-29 | Histoire du cuir dans la mode / History of Leather in Fashion (FR+EN) | La Maison | evergreen (queued)
-- 2026-10-02 | Vetement en cuir sur mesure / Made-to-measure leather clothing (FR+EN) | Savoir-faire | evergreen (queued)
-
 ## Semaine 39 (21/09/2026 - 27/09/2026)
 - 2026-09-25 | Total look cuir femme : composer une tenue tout en cuir / Women's all-leather look (FR+EN) | Style et Garde-robe | evergreen (queued)
 
@@ -13,13 +9,15 @@
 ## Semaine 37 (07/09/2026 - 13/09/2026)
 - 2026-09-11 | Comment porter un legging en cuir / How to Wear Leather Leggings (FR+EN) | Style et Garde-robe | evergreen (queued)
 
-## Semaine 36 (31/08/2026 - 06/09/2026)
-- 2026-09-04 | Le perfecto en cuir / What is a Perfecto Jacket (FR+EN) | La Maison | evergreen (queued)
+## Semaine 35 (24/08/2026 - 30/08/2026)
+- 2026-08-25 | Histoire du cuir dans la mode / History of Leather in Fashion (FR+EN) | La Maison | evergreen (queued)
 
 ## Semaine 34 (17/08/2026 - 23/08/2026)
+- 2026-08-18 | Vetement en cuir sur mesure / Made-to-measure leather clothing (FR+EN) | Savoir-faire | evergreen (queued)
 - 2026-08-21 | Comment reconnaitre un cuir de qualite / How to Recognise Quality Leather (FR+EN) | Le Cuir Stretch | evergreen (queued)
 
 ## Semaine 33 (10/08/2026 - 16/08/2026)
+- 2026-08-11 | Le perfecto en cuir / What is a Perfecto Jacket (FR+EN) | La Maison | evergreen (queued)
 - 2026-08-14 | Comment porter une veste en cuir pour femme / How to Wear a Leather Jacket for Women (FR+EN) | Style et Garde-robe | evergreen (queued)
 
 ## Semaine 32 (03/08/2026 - 09/08/2026)

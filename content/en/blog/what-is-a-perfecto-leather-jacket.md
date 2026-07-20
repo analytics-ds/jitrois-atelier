@@ -4,7 +4,7 @@ slug: "what-is-a-perfecto-leather-jacket"
 translationKey: "le-perfecto-cuir"
 date: "2026-07-20"
 lastmod: "2026-07-20"
-publishDate: "2026-09-04"
+publishDate: "2026-08-11"
 description: "What is a perfecto jacket? Explore the definition, origins and high-end alternatives to this iconic leather motorcycle blouson."
 categories: ["The House"]
 tags: ["Luxury", "Leather", "Fashion", "Perfecto", "Jacket"]

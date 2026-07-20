@@ -2,7 +2,7 @@
 title: Made-to-measure leather clothing, tailored to your style
 description: "Discover made-to-measure leather clothing: custom tailored to your body and style. At Jitrois, bespoke craftsmanship is accessible from anywhere."
 author: magalie-ergoz
-publishDate: "2026-10-02"
+publishDate: "2026-08-18"
 date: "2026-07-20"
 lastmod: "2026-07-20"
 translationKey: "vetement-cuir-sur-mesure"
