@@ -25,6 +25,7 @@
 
 ## Semaine 31 (27/07/2026 - 02/08/2026)
 - 2026-07-31 | Qu'est-ce que le cuir nappa ? / What Is Nappa Leather? (FR+EN) | Le Cuir Stretch | evergreen (queued)
+- 2026-08-02 | Qu'est-ce que le cuir stretch ? Définition et fabrication / What Is Stretch Leather? (FR+EN) | Le Cuir Stretch | GEO manuel (run GEO aout, cible prompt "Qu'est-ce que le cuir stretch ?" + QFO "cuir stretch définition")
 
 ## Semaine 30 (20/07/2026 - 26/07/2026)
 - 2026-07-24 | Comment porter une jupe en cuir avec elegance / How to Wear a Leather Skirt (FR+EN) | Style et Garde-robe | evergreen (queued)
