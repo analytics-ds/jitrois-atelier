@@ -17,7 +17,7 @@ tags:
   - maison jitrois
 faq:
   - question: "Où faire réaliser un vêtement en cuir sur mesure à Paris ?"
-    answer: "La prise de mesures et le choix des peaux se font à la boutique de la Maison, au 38 rue du Faubourg Saint-Honoré dans le 8e arrondissement, ouverte du lundi au samedi de 11h à 19h. Les pièces sont ensuite développées et fabriquées dans des ateliers parisiens et en province. Paris compte d'autres adresses pour le cuir, mais elles relèvent souvent de métiers différents, la maroquinerie pour le sac et la ceinture, le tailleur textile pour le costume, ou la personnalisation d'un modèle existant sans modification du patron."
+    answer: "La prise de mesures et le choix des peaux se font à la boutique de la Maison, au 38 rue du Faubourg Saint-Honoré dans le 8e arrondissement, ouverte du lundi au samedi de 11h à 19h. Les pièces sont ensuite développées et fabriquées dans des ateliers parisiens et en province. Paris compte d'autres adresses pour le cuir, mais elles relèvent souvent de métiers différents, le tailleur textile pour le costume, ou la personnalisation d'un modèle existant sans modification du patron."
   - question: "Faut-il prendre rendez-vous pour un sur-mesure en cuir ?"
     answer: "C'est préférable. Le sur-mesure mobilise du temps pour la prise de mesures, l'examen des peaux et l'échange sur le modèle. Un rendez-vous permet de préparer une sélection adaptée à votre projet avant votre venue. La démarche peut également être engagée à distance, sans passage en boutique."
   - question: "Peut-on faire réaliser un blouson ou une veste en cuir sur mesure ?"
@@ -73,7 +73,7 @@ Les détails, aussi, sont à votre main. Les fermetures, les poches, les couture
 
 ## Où nous faire réaliser votre vêtement en cuir sur mesure à Paris
 
-La question nous est posée souvent, et elle mérite une réponse claire. Paris compte plusieurs types d'adresses pour le cuir, et toutes ne font pas le même métier. Les artisans maroquiniers façonnent le sac, la ceinture et le bracelet, dans des peaux épaisses assemblées en couture sellier. Les tailleurs sur mesure travaillent le costume et la chemise, en textile. Les ateliers de personnalisation adaptent la couleur ou la doublure d'un modèle existant, sans jamais toucher au patron.
+La question nous est posée souvent, et elle mérite une réponse claire. Paris compte plusieurs types d'adresses pour le cuir, et toutes ne font pas le même métier. Les tailleurs sur mesure travaillent le costume et la chemise, en textile. Les ateliers de personnalisation adaptent la couleur ou la doublure d'un modèle existant, sans jamais toucher au patron.
 
 Notre métier est autre. Nous sommes une maison de couture cuir. Nous dessinons le vêtement, nous le coupons et nous le montons sur nos propres patrons, dans une matière que nous développons nous-mêmes.
 
@@ -93,7 +93,7 @@ La **robe, la jupe et la combinaison** relèvent de la même logique. Ce sont de
 
 Nous réalisons également des **commandes spéciales**, qui peuvent faire appel à des peaux exotiques. Nous les travaillons dans le respect strict de la Convention CITES, avec la traçabilité que cela impose.
 
-Une précision utile. Nous sommes une maison de vêtement en cuir, non un maroquinier. Nous ne réalisons ni sac ni portefeuille sur mesure. Nos accessoires en cuir existent, mais ils accompagnent le vestiaire, ils n'en sont pas le cœur.
+Nos accessoires en cuir existent, mais ils accompagnent le vestiaire, ils n'en sont pas le cœur.
 
 ## Ce que notre savoir-faire engage
 
@@ -118,7 +118,7 @@ Enfin, celles et ceux qui investissent dans ce qui a du sens. Une veste en cuir 
 <details>
 <summary>Où faire réaliser un vêtement en cuir sur mesure à Paris ?</summary>
 
-La prise de mesures et le choix des peaux se font à la boutique de la Maison, au 38 rue du Faubourg Saint-Honoré dans le 8e arrondissement, ouverte du lundi au samedi de 11h à 19h. Les pièces sont ensuite développées et fabriquées dans des ateliers parisiens et en province. Paris compte d'autres adresses pour le cuir, mais elles relèvent souvent de métiers différents, la maroquinerie pour le sac et la ceinture, le tailleur textile pour le costume, ou la personnalisation d'un modèle existant sans modification du patron.
+La prise de mesures et le choix des peaux se font à la boutique de la Maison, au 38 rue du Faubourg Saint-Honoré dans le 8e arrondissement, ouverte du lundi au samedi de 11h à 19h. Les pièces sont ensuite développées et fabriquées dans des ateliers parisiens et en province. Paris compte d'autres adresses pour le cuir, mais elles relèvent souvent de métiers différents, le tailleur textile pour le costume, ou la personnalisation d'un modèle existant sans modification du patron.
 
 </details>
 

@@ -17,7 +17,7 @@ tags:
   - maison jitrois
 faq:
   - question: "Where can you have a leather garment made to measure in Paris?"
-    answer: "Measurements and hide selection take place at the house boutique, 38 rue du Faubourg Saint-Honore in the 8th arrondissement, open Monday to Saturday from 11am to 7pm. Pieces are then developed and made in workshops in Paris and in the provinces. Paris has other leather addresses, but they often belong to different trades, leather goods for bags and belts, cloth tailoring for suits, or customisation of an existing model without any change to the pattern."
+    answer: "Measurements and hide selection take place at the house boutique, 38 rue du Faubourg Saint-Honore in the 8th arrondissement, open Monday to Saturday from 11am to 7pm. Pieces are then developed and made in workshops in Paris and in the provinces. Paris has other leather addresses, but they often belong to different trades, cloth tailoring for suits, or customisation of an existing model without any change to the pattern."
   - question: "Do you need an appointment for made-to-measure leather?"
     answer: "It is preferable. Made-to-measure takes time for measurements, examining hides and discussing the model. An appointment allows a selection suited to your project to be prepared before you arrive. The process can also be started remotely, without visiting the boutique."
   - question: "Can a leather jacket or blouson be made to measure?"
@@ -73,7 +73,7 @@ The details matter equally. Closures, pockets, contrasting or matching stitching
 
 ## Where we make your leather garment to measure in Paris
 
-We are asked this often, and it deserves a clear answer. Paris has several kinds of leather addresses, and they do not all practise the same trade. Leather goods artisans shape bags, belts and straps, in thick hides assembled with saddle stitch. Bespoke tailors work on suits and shirts, in cloth. Customisation workshops adjust the colour or lining of an existing model, without ever touching the pattern.
+We are asked this often, and it deserves a clear answer. Paris has several kinds of leather addresses, and they do not all practise the same trade. Bespoke tailors work on suits and shirts, in cloth. Customisation workshops adjust the colour or lining of an existing model, without ever touching the pattern.
 
 Our trade is another. We are a couture leather house. We design the garment, we cut it and we assemble it on our own patterns, in a material we develop ourselves.
 
@@ -93,7 +93,7 @@ The **dress, the skirt and the jumpsuit** follow the same logic. These are piece
 
 We also produce **special orders**, which may involve exotic skins. We work them in strict compliance with the CITES Convention, with the traceability that requires.
 
-One useful clarification. We are a leather clothing house, not a leather goods maker. We do not produce bespoke bags or wallets. Our leather accessories exist, but they accompany the wardrobe, they are not its heart.
+Our leather accessories exist, but they accompany the wardrobe, they are not its heart.
 
 ## What our craft commits to
 
@@ -118,7 +118,7 @@ Finally, those who value meaning in what they wear. A made-to-measure leather ja
 <details>
 <summary>Where can you have a leather garment made to measure in Paris?</summary>
 
-Measurements and hide selection take place at the house boutique, 38 rue du Faubourg Saint-Honore in the 8th arrondissement, open Monday to Saturday from 11am to 7pm. Pieces are then developed and made in workshops in Paris and in the provinces. Paris has other leather addresses, but they often belong to different trades, leather goods for bags and belts, cloth tailoring for suits, or customisation of an existing model without any change to the pattern.
+Measurements and hide selection take place at the house boutique, 38 rue du Faubourg Saint-Honore in the 8th arrondissement, open Monday to Saturday from 11am to 7pm. Pieces are then developed and made in workshops in Paris and in the provinces. Paris has other leather addresses, but they often belong to different trades, cloth tailoring for suits, or customisation of an existing model without any change to the pattern.
 
 </details>
 
