@@ -4,7 +4,7 @@ theme = "atelier-jitrois"
 
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableGitInfo = false
 
 [pagination]
