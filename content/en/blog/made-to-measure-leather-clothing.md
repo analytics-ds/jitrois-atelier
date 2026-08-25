@@ -1,19 +1,33 @@
 ---
-title: Made-to-measure leather clothing, tailored to your style
-description: "Discover made-to-measure leather clothing: custom tailored to your body and style. At Jitrois, bespoke craftsmanship is accessible from anywhere."
+title: "Made-to-measure leather clothing in Paris, the Jitrois atelier"
+description: "Having a leather garment made to measure in Paris. The Jitrois atelier, measurements taken on Faubourg Saint-Honore, hand cutting and bespoke ordering at a distance."
 author: magalie-ergoz
 publishDate: "2026-08-18"
 date: "2026-07-20"
-lastmod: "2026-07-20"
+lastmod: "2026-08-25"
 translationKey: "vetement-cuir-sur-mesure"
 categories:
   - Craftsmanship
 tags:
   - leather couture
   - made-to-measure
+  - leather atelier Paris
   - craftsmanship
   - custom tailoring
   - maison jitrois
+faq:
+  - question: "Where can you have a leather garment made to measure in Paris?"
+    answer: "Measurements and hide selection take place at the house boutique, 38 rue du Faubourg Saint-Honore in the 8th arrondissement, open Monday to Saturday from 11am to 7pm. Pieces are then developed and made in workshops in Paris and in the provinces. Paris has other leather addresses, but they often belong to different trades, leather goods for bags and belts, cloth tailoring for suits, or customisation of an existing model without any change to the pattern."
+  - question: "Do you need an appointment for made-to-measure leather?"
+    answer: "It is preferable. Made-to-measure takes time for measurements, examining hides and discussing the model. An appointment allows a selection suited to your project to be prepared before you arrive. The process can also be started remotely, without visiting the boutique."
+  - question: "How long does it take to receive my made-to-measure leather clothing?"
+    answer: "Creation typically takes between 6 and 10 weeks from order confirmation. This timeline includes material selection, construction, final adjustments, and quality controls. We'll keep you informed at every step."
+  - question: "Can I truly order made-to-measure leather clothing remotely?"
+    answer: "Absolutely. We've worked with remote clients for years. We capture your measurements using precise guides, you explore our materials digitally, and we oversee the entire creation together. Distance doesn't affect quality or your involvement in the process."
+  - question: "What leathers do you offer for made-to-measure?"
+    answer: "We work with several grades of leather, from classic leather to stretch leather, which combines leather's prestige with remarkable elasticity. Each material offers distinct characteristics in terms of comfort, durability, and aging."
+  - question: "Can I modify my selections after placing an order?"
+    answer: "Before construction begins, certain adjustments may be possible. Contact us to discuss your modifications, and we'll explore together what can be adapted."
 image: "images/blog/cuir-couture-definition.webp"
 imageCredit: "© Jitrois"
 imageAlt: "Made-to-measure leather garment in the atelier"
@@ -45,11 +59,33 @@ This geographic freedom never compromises on quality. Every piece remains entire
 
 ## Selecting your leather and color
 
-Choosing your leather is a defining moment. We work with multiple grades of material, from classic leather to [stretch leather](https://jitrois.com/pages/materials), an innovation from the 1990s that combines leather's prestige with remarkable elasticity. Learning to [recognise quality leather](/en/blog/how-to-recognise-quality-leather/) is equally important, and we guide you through this process. Each material carries its own character, its own aging pattern, its own comfort profile.
+Choosing your leather is a defining moment. We work with multiple grades of material, from classic leather to [stretch leather](/en/blog/what-is-stretch-leather/), an invention of the mid-1980s that combines leather's prestige with remarkable elasticity. Learning to [recognise quality leather](/en/blog/how-to-recognise-quality-leather/) is equally important, and we guide you through this process. Each material carries its own character, its own aging pattern, its own comfort profile.
 
 Colors? They're abundant and thoughtfully curated to complement your preferences and existing wardrobe. From timeless black to rich brown, through to more distinctive hues. Your taste guides this choice, not fleeting trends. You're creating a piece that will outlast the seasons.
 
 The details matter equally. Closures, pockets, contrasting or matching stitching, lining choices. These small elements accumulate into a signature uniquely yours, a leather garment that tells the story of who you are.
+
+## Where to have a leather garment made to measure in Paris
+
+The question comes up often and deserves a precise answer. Paris has several kinds of leather addresses, and they do not practise the same trade. Leather goods artisans work on bags, belts and straps, using thick hides and saddle stitch. Bespoke tailors work on suits and shirts, in cloth. Customisation workshops adjust the colour or lining of an existing model without touching the pattern.
+
+Maison Jitrois belongs to a fourth category, the couture leather house. The garment is designed, cut and assembled on the house's own patterns, in a material the house develops itself.
+
+The starting point is **38 rue du Faubourg Saint-Honore, in the 8th arrondissement**, open Monday to Saturday from 11am to 7pm. This is where measurements are taken, hides are chosen and fittings are arranged. Seeing the material, folding it, trying it with arms raised changes the decision, and that is what leather demands before any construction begins.
+
+Pieces are then developed and made in workshops in Paris and in the provinces. This proximity between design and manufacture is what holds the consistency between drawing, cutting and assembly.
+
+## What the craft commits to
+
+Made-to-measure leather only means something if the material and the hand follow.
+
+The lambskins come from the **French and Spanish Pyrenees**, chosen for the fineness and regularity of their grain, and for their ability to become supple without losing their hold. Tanning is carried out in France, in the **Graulhet region**, a historic centre of French tanning, which allows control over colour depth and handfeel.
+
+**Cutting is done by hand, piece by piece.** The cutter recognises colour variations, reads the direction of the hide and anticipates how it will react to movement. This stage determines the accuracy of the finished garment more than the stitching itself.
+
+Leather does not forgive approximation. Unlike cloth, it cannot be taken back in, and every stitch leaves a permanent mark. That is why taking measurements and the intermediate fitting cannot be compressed.
+
+Beyond the usual wardrobe, the house also produces **special orders**, which may involve exotic skins, in strict compliance with the CITES Convention and its traceability requirements.
 
 ## For whom is made-to-measure leather clothing?
 
@@ -60,6 +96,20 @@ Second, people seeking a truly personal piece, something that endures and grows 
 Finally, those who value meaning in what they wear. A made-to-measure leather jacket is an investment in your presence, your confidence. You know you're wearing something singular, created for you, by skilled hands.
 
 ## Frequently asked questions
+
+<details>
+<summary>Where can you have a leather garment made to measure in Paris?</summary>
+
+Measurements and hide selection take place at the house boutique, 38 rue du Faubourg Saint-Honore in the 8th arrondissement, open Monday to Saturday from 11am to 7pm. Pieces are then developed and made in workshops in Paris and in the provinces. Paris has other leather addresses, but they often belong to different trades, leather goods for bags and belts, cloth tailoring for suits, or customisation of an existing model without any change to the pattern.
+
+</details>
+
+<details>
+<summary>Do you need an appointment for made-to-measure leather?</summary>
+
+It is preferable. Made-to-measure takes time for measurements, examining hides and discussing the model. An appointment allows a selection suited to your project to be prepared before you arrive. The process can also be started remotely, without visiting the boutique.
+
+</details>
 
 <details>
 <summary>How long does it take to receive my made-to-measure leather clothing?</summary>
