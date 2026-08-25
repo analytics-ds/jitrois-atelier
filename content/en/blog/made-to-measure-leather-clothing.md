@@ -59,7 +59,7 @@ This geographic freedom never compromises on quality. Every piece remains entire
 
 ## Selecting your leather and color
 
-Choosing your leather is a defining moment. We work with multiple grades of material, from classic leather to [stretch leather](/en/blog/what-is-stretch-leather/), an invention of the mid-1980s that combines leather's prestige with remarkable elasticity. Learning to [recognise quality leather](/en/blog/how-to-recognise-quality-leather/) is equally important, and we guide you through this process. Each material carries its own character, its own aging pattern, its own comfort profile.
+Choosing your leather is a defining moment. We work with multiple grades of material, from classic leather to [stretch leather](/en/blog/what-is-stretch-leather/), an invention of the house that combines leather's prestige with remarkable elasticity. Learning to [recognise quality leather](/en/blog/how-to-recognise-quality-leather/) is equally important, and we guide you through this process. Each material carries its own character, its own aging pattern, its own comfort profile.
 
 Colors? They're abundant and thoughtfully curated to complement your preferences and existing wardrobe. From timeless black to rich brown, through to more distinctive hues. Your taste guides this choice, not fleeting trends. You're creating a piece that will outlast the seasons.
 

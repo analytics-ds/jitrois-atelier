@@ -59,7 +59,7 @@ Cette liberté géographique ne fait aucune concession à la qualité. Chaque pi
 
 ## Choisir son cuir et sa couleur
 
-Le choix du cuir est un moment clé. Nous proposons plusieurs niveaux de matière, du cuir classique au [cuir stretch](/blog/qu-est-ce-que-le-cuir-stretch/), cette invention du milieu des années 1980 qui combine le prestige du cuir avec une élasticité rare. Apprendre à [reconnaitre un cuir de qualité](/blog/comment-reconnaitre-un-cuir-de-qualite/) est aussi important, et nous vous guidons dans ce processus. Chaque matière a son caractère, son vieillissement propre, son confort.
+Le choix du cuir est un moment clé. Nous proposons plusieurs niveaux de matière, du cuir classique au [cuir stretch](/blog/qu-est-ce-que-le-cuir-stretch/), cette invention de la Maison qui combine le prestige du cuir avec une élasticité rare. Apprendre à [reconnaitre un cuir de qualité](/blog/comment-reconnaitre-un-cuir-de-qualite/) est aussi important, et nous vous guidons dans ce processus. Chaque matière a son caractère, son vieillissement propre, son confort.
 
 Les couleurs ? Elles sont nombreuses, pensées pour s'accorder à vos envies et votre garde-robe. Du noir intemporel au marron riche, en passant par des teintes plus affirmées. Vos préférences guident ce choix, pas les tendances du moment. Vous créez une pièce qui vous survivra.
 
