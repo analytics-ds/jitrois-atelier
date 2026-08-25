@@ -20,6 +20,12 @@ faq:
     answer: "Measurements and hide selection take place at the house boutique, 38 rue du Faubourg Saint-Honore in the 8th arrondissement, open Monday to Saturday from 11am to 7pm. Pieces are then developed and made in workshops in Paris and in the provinces. Paris has other leather addresses, but they often belong to different trades, leather goods for bags and belts, cloth tailoring for suits, or customisation of an existing model without any change to the pattern."
   - question: "Do you need an appointment for made-to-measure leather?"
     answer: "It is preferable. Made-to-measure takes time for measurements, examining hides and discussing the model. An appointment allows a selection suited to your project to be prepared before you arrive. The process can also be started remotely, without visiting the boutique."
+  - question: "Can a leather jacket or blouson be made to measure?"
+    answer: "Yes, these are the pieces we are asked for most. The jacket and the blouson are also where fit shows most, since everything comes down to shoulder width, sleeve length and ease across the back. We take your measurements at these precise points, then establish the pattern. The rest of the wardrobe follows the same logic, trousers, skirt, dress and jumpsuit, for women and for men."
+  - question: "What budget should be expected for a made-to-measure leather piece?"
+    answer: "Our collection pieces most often range from 2,290 to 3,990 euros for leather trousers, and from 2,590 euros for a jacket, with the most elaborate models sitting above that. A made-to-measure piece is positioned above the equivalent collection model, since it involves a pattern established for you, a dedicated hide selection and fittings. We give you a precise estimate after the first appointment, once the model and the material have been settled."
+  - question: "Is made-to-measure also offered to men?"
+    answer: "Yes. Our men's wardrobe is covered in the same way as the women's, from the blouson to the coat and the trousers. The process is identical, taking measurements, choosing the hide, establishing the pattern, then an intermediate fitting before final construction."
   - question: "How long does it take to receive my made-to-measure leather clothing?"
     answer: "Creation typically takes between 6 and 10 weeks from order confirmation. This timeline includes material selection, construction, final adjustments, and quality controls. We'll keep you informed at every step."
   - question: "Can I truly order made-to-measure leather clothing remotely?"
@@ -65,27 +71,39 @@ Colors? They're abundant and thoughtfully curated to complement your preferences
 
 The details matter equally. Closures, pockets, contrasting or matching stitching, lining choices. These small elements accumulate into a signature uniquely yours, a leather garment that tells the story of who you are.
 
-## Where to have a leather garment made to measure in Paris
+## Where we make your leather garment to measure in Paris
 
-The question comes up often and deserves a precise answer. Paris has several kinds of leather addresses, and they do not practise the same trade. Leather goods artisans work on bags, belts and straps, using thick hides and saddle stitch. Bespoke tailors work on suits and shirts, in cloth. Customisation workshops adjust the colour or lining of an existing model without touching the pattern.
+We are asked this often, and it deserves a clear answer. Paris has several kinds of leather addresses, and they do not all practise the same trade. Leather goods artisans shape bags, belts and straps, in thick hides assembled with saddle stitch. Bespoke tailors work on suits and shirts, in cloth. Customisation workshops adjust the colour or lining of an existing model, without ever touching the pattern.
 
-Maison Jitrois belongs to a fourth category, the couture leather house. The garment is designed, cut and assembled on the house's own patterns, in a material the house develops itself.
+Our trade is another. We are a couture leather house. We design the garment, we cut it and we assemble it on our own patterns, in a material we develop ourselves.
 
-The starting point is **38 rue du Faubourg Saint-Honore, in the 8th arrondissement**, open Monday to Saturday from 11am to 7pm. This is where measurements are taken, hides are chosen and fittings are arranged. Seeing the material, folding it, trying it with arms raised changes the decision, and that is what leather demands before any construction begins.
+We welcome you at **38 rue du Faubourg Saint-Honore, in the 8th arrondissement**, Monday to Saturday from 11am to 7pm. This is where we take your measurements, present the hides and arrange your fittings. Seeing the material, folding it, trying it with arms raised changes a decision. Leather asks for this, always, before we commit to a single cut.
 
-Pieces are then developed and made in workshops in Paris and in the provinces. This proximity between design and manufacture is what holds the consistency between drawing, cutting and assembly.
+Your pieces are then developed and made in our workshops in Paris and in the provinces. This proximity between design and manufacture is what allows us to hold the consistency between drawing, cutting and assembly.
 
-## What the craft commits to
+## The pieces we make to measure
+
+Made-to-measure applies to our entire wardrobe, for women and for men.
+
+The **leather jacket and blouson** are the requests that reach us most often. They are also the pieces where fit shows most, because everything comes down to shoulder width, sleeve length and ease across the back. A jacket cut too close restricts the gesture, one cut too wide erases the line. That is precisely what taking measurements corrects.
+
+**Leather trousers** call for a different kind of precision, where the rise and the inseam govern the whole silhouette. Our stretch leather comes into its own here, following movement without the cut losing its shape.
+
+The **dress, the skirt and the jumpsuit** follow the same logic. These are pieces worn very close to the body, where a few millimetres decide how they fall.
+
+We also produce **special orders**, which may involve exotic skins. We work them in strict compliance with the CITES Convention, with the traceability that requires.
+
+One useful clarification. We are a leather clothing house, not a leather goods maker. We do not produce bespoke bags or wallets. Our leather accessories exist, but they accompany the wardrobe, they are not its heart.
+
+## What our craft commits to
 
 Made-to-measure leather only means something if the material and the hand follow.
 
-The lambskins come from the **French and Spanish Pyrenees**, chosen for the fineness and regularity of their grain, and for their ability to become supple without losing their hold. Tanning is carried out in France, in the **Graulhet region**, a historic centre of French tanning, which allows control over colour depth and handfeel.
+We work lambskins from the **French and Spanish Pyrenees**, chosen for the fineness and regularity of their grain, and for their ability to become supple without losing any of their hold. Tanning is carried out in France, in the **Graulhet region**, a historic centre of French tanning. That is what allows us to control colour depth and the quality of the handfeel.
 
-**Cutting is done by hand, piece by piece.** The cutter recognises colour variations, reads the direction of the hide and anticipates how it will react to movement. This stage determines the accuracy of the finished garment more than the stitching itself.
+We cut **by hand, piece by piece**. Our cutter recognises colour variations, reads the direction of the hide and anticipates how it will react to movement. This stage determines the accuracy of the finished garment, more even than the stitching.
 
-Leather does not forgive approximation. Unlike cloth, it cannot be taken back in, and every stitch leaves a permanent mark. That is why taking measurements and the intermediate fitting cannot be compressed.
-
-Beyond the usual wardrobe, the house also produces **special orders**, which may involve exotic skins, in strict compliance with the CITES Convention and its traceability requirements.
+Leather does not forgive approximation. Unlike cloth, it cannot be taken back in, and every stitch leaves a permanent mark. That is why we never compress the taking of measurements or the intermediate fitting. It is a requirement, not a delay.
 
 ## For whom is made-to-measure leather clothing?
 
@@ -108,6 +126,27 @@ Measurements and hide selection take place at the house boutique, 38 rue du Faub
 <summary>Do you need an appointment for made-to-measure leather?</summary>
 
 It is preferable. Made-to-measure takes time for measurements, examining hides and discussing the model. An appointment allows a selection suited to your project to be prepared before you arrive. The process can also be started remotely, without visiting the boutique.
+
+</details>
+
+<details>
+<summary>Can a leather jacket or blouson be made to measure?</summary>
+
+Yes, these are the pieces we are asked for most. The jacket and the blouson are also where fit shows most, since everything comes down to shoulder width, sleeve length and ease across the back. We take your measurements at these precise points, then establish the pattern. The rest of the wardrobe follows the same logic, trousers, skirt, dress and jumpsuit, for women and for men.
+
+</details>
+
+<details>
+<summary>What budget should be expected for a made-to-measure leather piece?</summary>
+
+Our collection pieces most often range from 2,290 to 3,990 euros for leather trousers, and from 2,590 euros for a jacket, with the most elaborate models sitting above that. A made-to-measure piece is positioned above the equivalent collection model, since it involves a pattern established for you, a dedicated hide selection and fittings. We give you a precise estimate after the first appointment, once the model and the material have been settled.
+
+</details>
+
+<details>
+<summary>Is made-to-measure also offered to men?</summary>
+
+Yes. Our men's wardrobe is covered in the same way as the women's, from the blouson to the coat and the trousers. The process is identical, taking measurements, choosing the hide, establishing the pattern, then an intermediate fitting before final construction.
 
 </details>
 

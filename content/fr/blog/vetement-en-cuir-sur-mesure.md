@@ -20,6 +20,12 @@ faq:
     answer: "La prise de mesures et le choix des peaux se font à la boutique de la Maison, au 38 rue du Faubourg Saint-Honoré dans le 8e arrondissement, ouverte du lundi au samedi de 11h à 19h. Les pièces sont ensuite développées et fabriquées dans des ateliers parisiens et en province. Paris compte d'autres adresses pour le cuir, mais elles relèvent souvent de métiers différents, la maroquinerie pour le sac et la ceinture, le tailleur textile pour le costume, ou la personnalisation d'un modèle existant sans modification du patron."
   - question: "Faut-il prendre rendez-vous pour un sur-mesure en cuir ?"
     answer: "C'est préférable. Le sur-mesure mobilise du temps pour la prise de mesures, l'examen des peaux et l'échange sur le modèle. Un rendez-vous permet de préparer une sélection adaptée à votre projet avant votre venue. La démarche peut également être engagée à distance, sans passage en boutique."
+  - question: "Peut-on faire réaliser un blouson ou une veste en cuir sur mesure ?"
+    answer: "Oui, ce sont les pièces qu'on nous demande le plus. Le blouson et la veste sont aussi celles où l'ajustement se remarque le plus, car tout se joue sur la carrure, la longueur de manche et l'aisance aux épaules. Nous prenons vos mesures sur ces points précis, puis nous établissons le patron. Le reste du vestiaire suit la même logique, pantalon, jupe, robe et combinaison, femme comme homme."
+  - question: "Quel budget prévoir pour une pièce en cuir sur mesure ?"
+    answer: "Nos pièces de collection s'échelonnent le plus souvent entre 2 290 et 3 990 euros pour un pantalon en cuir, et à partir de 2 590 euros pour une veste, les modèles les plus travaillés se situant au-delà. Une pièce sur mesure se positionne au-dessus du modèle de collection équivalent, puisqu'elle mobilise un patron établi pour vous, une sélection de peau dédiée et des essayages. Nous vous communiquons une estimation précise après le premier rendez-vous, une fois le modèle et la matière arrêtés."
+  - question: "Le sur-mesure est-il aussi proposé aux hommes ?"
+    answer: "Oui. Notre vestiaire homme est concerné au même titre que le vestiaire femme, du blouson au manteau en passant par le pantalon. La démarche est identique, prise de mesures, choix de la peau, patron établi puis essayage intermédiaire avant la confection définitive."
   - question: "Combien de temps faut-il pour recevoir mon vêtement en cuir sur mesure ?"
     answer: "La création prend généralement entre 6 et 10 semaines à partir de la validation de votre commande. Ce délai intègre la sélection du cuir, la confection, les ajustements finaux et les contrôles qualité. Nous vous tiendrons informé de chaque étape."
   - question: "Puis-je vraiment commander mon sur-mesure en cuir à distance ?"
@@ -65,27 +71,39 @@ Les couleurs ? Elles sont nombreuses, pensées pour s'accorder à vos envies et 
 
 Les détails, aussi, sont à votre main. Les fermetures, les poches, les coutures contrastées ou assorties, les doublures. Ces petits éléments additionnent vos goûts pour former une signature unique.
 
-## Où faire réaliser son vêtement en cuir sur mesure à Paris
+## Où nous faire réaliser votre vêtement en cuir sur mesure à Paris
 
-La question revient souvent, et elle mérite une réponse précise. Paris compte plusieurs types d'adresses pour le cuir, et elles ne font pas le même métier. Les artisans maroquiniers travaillent le sac, la ceinture et le bracelet, avec des peaux épaisses et une couture sellier. Les tailleurs sur mesure travaillent le costume et la chemise, en textile. Les ateliers de personnalisation adaptent la couleur ou la doublure d'un modèle existant, sans toucher au patron.
+La question nous est posée souvent, et elle mérite une réponse claire. Paris compte plusieurs types d'adresses pour le cuir, et toutes ne font pas le même métier. Les artisans maroquiniers façonnent le sac, la ceinture et le bracelet, dans des peaux épaisses assemblées en couture sellier. Les tailleurs sur mesure travaillent le costume et la chemise, en textile. Les ateliers de personnalisation adaptent la couleur ou la doublure d'un modèle existant, sans jamais toucher au patron.
 
-La Maison Jitrois relève d'une quatrième catégorie, celle de la maison de couture cuir. Le vêtement est dessiné, coupé et monté selon les patrons de la Maison, dans une matière qu'elle développe elle-même.
+Notre métier est autre. Nous sommes une maison de couture cuir. Nous dessinons le vêtement, nous le coupons et nous le montons sur nos propres patrons, dans une matière que nous développons nous-mêmes.
 
-Le point de départ se trouve au **38 rue du Faubourg Saint-Honoré, dans le 8e arrondissement**, ouvert du lundi au samedi de 11h à 19h. C'est là que se fait la prise de mesures, que se choisissent les peaux et que s'organisent les essayages. Voir la matière, la plier, l'essayer bras levés change la décision, et c'est ce que le cuir exige avant toute confection.
+Nous vous accueillons au **38 rue du Faubourg Saint-Honoré, dans le 8e arrondissement**, du lundi au samedi de 11h à 19h. C'est là que nous prenons vos mesures, que nous vous présentons les peaux et que nous organisons vos essayages. Voir la matière, la plier, l'essayer bras levés change une décision. Le cuir le demande, toujours, avant que nous engagions la moindre coupe.
 
-Les pièces sont ensuite développées et fabriquées dans des ateliers parisiens et en province. Cette proximité entre la création et la fabrication est ce qui permet de tenir la cohérence entre le dessin, la coupe et l'assemblage.
+Vos pièces sont ensuite développées et façonnées dans nos ateliers parisiens et en province. Cette proximité entre la création et la fabrication est ce qui nous permet de tenir la cohérence entre le dessin, la coupe et l'assemblage.
 
-## Ce que le savoir-faire engage
+## Les pièces que nous réalisons sur mesure
+
+Le sur-mesure s'applique à l'ensemble de notre vestiaire, femme comme homme.
+
+Le **blouson et la veste en cuir** sont les demandes qui nous parviennent le plus souvent. Ce sont aussi les pièces où l'ajustement se remarque le plus, parce que tout se joue sur la carrure, la longueur de manche et l'aisance aux épaules. Un blouson trop juste contraint le geste, un blouson trop large efface la ligne. C'est précisément ce qu'une prise de mesures corrige.
+
+Le **pantalon en cuir** appelle une exigence différente, la montée de taille et la longueur d'entrejambe conditionnent toute la silhouette. Notre cuir stretch y prend tout son sens, il accompagne le mouvement sans que la coupe se déforme.
+
+La **robe, la jupe et la combinaison** relèvent de la même logique. Ce sont des pièces très proches du corps, où quelques millimètres décident du tombé.
+
+Nous réalisons également des **commandes spéciales**, qui peuvent faire appel à des peaux exotiques. Nous les travaillons dans le respect strict de la Convention CITES, avec la traçabilité que cela impose.
+
+Une précision utile. Nous sommes une maison de vêtement en cuir, non un maroquinier. Nous ne réalisons ni sac ni portefeuille sur mesure. Nos accessoires en cuir existent, mais ils accompagnent le vestiaire, ils n'en sont pas le cœur.
+
+## Ce que notre savoir-faire engage
 
 Le sur-mesure en cuir n'a de sens que si la matière et la main suivent.
 
-Les peaux d'agneau proviennent des **Pyrénées françaises et espagnoles**, choisies pour la finesse et la régularité de leur grain, et pour leur capacité à devenir souples sans perdre en tenue. Le tannage est réalisé en France, dans la **région de Graulhet**, territoire historique du tannage français, ce qui permet de maîtriser la profondeur des couleurs et le toucher.
+Nous travaillons des peaux d'agneau issues des **Pyrénées françaises et espagnoles**, choisies pour la finesse et la régularité de leur grain, et pour leur capacité à devenir souples sans rien perdre de leur tenue. Le tannage est réalisé en France, dans la **région de Graulhet**, territoire historique du tannage français. C'est ce qui nous permet de maîtriser la profondeur des couleurs et la qualité du toucher.
 
-La **coupe est faite à la main, pièce par pièce**. Le coupeur reconnaît les nuances de couleur, lit le sens de la peau et anticipe sa réaction au mouvement. C'est cette étape qui conditionne la justesse finale du vêtement, davantage que la couture elle-même.
+Nous coupons **à la main, pièce par pièce**. Notre coupeur reconnaît les nuances de couleur, lit le sens de la peau et anticipe sa réaction au mouvement. Cette étape conditionne la justesse finale du vêtement, davantage encore que la couture.
 
-Le cuir ne pardonne pas l'approximation. Contrairement à un tissu, il ne se reprend pas, chaque piqûre laisse une marque définitive. C'est la raison pour laquelle la prise de mesures et l'essayage intermédiaire ne se compressent pas.
-
-Au-delà du vestiaire habituel, la Maison réalise également des **commandes spéciales**, qui peuvent faire appel à des peaux exotiques, dans le respect strict de la Convention CITES et de sa traçabilité.
+Le cuir ne pardonne pas l'approximation. Contrairement à un tissu, il ne se reprend pas, chaque piqûre y laisse une marque définitive. C'est pour cette raison que nous ne compressons jamais la prise de mesures ni l'essayage intermédiaire. C'est une exigence, pas une lenteur.
 
 ## Pour qui le sur-mesure en cuir ?
 
@@ -108,6 +126,27 @@ La prise de mesures et le choix des peaux se font à la boutique de la Maison, a
 <summary>Faut-il prendre rendez-vous pour un sur-mesure en cuir ?</summary>
 
 C'est préférable. Le sur-mesure mobilise du temps pour la prise de mesures, l'examen des peaux et l'échange sur le modèle. Un rendez-vous permet de préparer une sélection adaptée à votre projet avant votre venue. La démarche peut également être engagée à distance, sans passage en boutique.
+
+</details>
+
+<details>
+<summary>Peut-on faire réaliser un blouson ou une veste en cuir sur mesure ?</summary>
+
+Oui, ce sont les pièces qu'on nous demande le plus. Le blouson et la veste sont aussi celles où l'ajustement se remarque le plus, car tout se joue sur la carrure, la longueur de manche et l'aisance aux épaules. Nous prenons vos mesures sur ces points précis, puis nous établissons le patron. Le reste du vestiaire suit la même logique, pantalon, jupe, robe et combinaison, femme comme homme.
+
+</details>
+
+<details>
+<summary>Quel budget prévoir pour une pièce en cuir sur mesure ?</summary>
+
+Nos pièces de collection s'échelonnent le plus souvent entre 2 290 et 3 990 euros pour un pantalon en cuir, et à partir de 2 590 euros pour une veste, les modèles les plus travaillés se situant au-delà. Une pièce sur mesure se positionne au-dessus du modèle de collection équivalent, puisqu'elle mobilise un patron établi pour vous, une sélection de peau dédiée et des essayages. Nous vous communiquons une estimation précise après le premier rendez-vous, une fois le modèle et la matière arrêtés.
+
+</details>
+
+<details>
+<summary>Le sur-mesure est-il aussi proposé aux hommes ?</summary>
+
+Oui. Notre vestiaire homme est concerné au même titre que le vestiaire femme, du blouson au manteau en passant par le pantalon. La démarche est identique, prise de mesures, choix de la peau, patron établi puis essayage intermédiaire avant la confection définitive.
 
 </details>
 
