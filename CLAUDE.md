@@ -112,6 +112,7 @@ Cette limite sert a eviter la publication en masse et a maintenir un rythme de p
 - Toujours utiliser `relURL` dans les templates Hugo pour les liens (compatibilite GitHub Pages)
 - Les articles vont dans `content/blog/` (langue principale) et `content/en/blog/` (anglais)
 - Les slugs sont en minuscules, sans accents, mots separes par des tirets
+- **URLs de taxonomie sans accents** : `removePathAccents = true` dans `hugo.toml` (ajoute le 2026-09-09). Les tags gardent leurs accents dans le frontmatter (regle datashake), mais Hugo les translittere dans l'URL (`/tags/matiere/`). Les 9 anciennes URLs accentuees deja en ligne sont redirigees par des `aliases` declares dans `content/<lang>/tags/<terme accentue>/_index.md`. **Important** : nommer ce dossier d'apres le TERME accentue (pas d'apres le slug), sinon Hugo cree une page en doublon dans le sitemap. Sur GitHub Pages ces alias sont des redirections par meta refresh + canonical, pas de vrais 301 (impossible sans Cloudflare devant).
 - Ne JAMAIS utiliser `&` dans les noms de categories ou de tags — toujours remplacer par "et" (Hugo genere un double tiret `--` dans le slug, ce qui casse les URLs)
 - Le ton des articles est impersonnel (pas de je/tu/nous/vous) sauf instruction contraire
 - Les specs d'article (mots minimum, H2, blocs obligatoires) dependent du type choisi — lire les `<!-- NOTES POUR CLAUDE -->` dans chaque template d'article
