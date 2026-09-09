@@ -1,5 +1,17 @@
 # Journal de publication
 
+## Semaine 42 (12/10/2026 - 18/10/2026)
+- 2026-10-13 | Le cuir d'agneau plongé, la matière du cuir couture / Plongé lambskin (FR+EN) | Le Cuir Stretch | evergreen (queued)
+- 2026-10-16 | Comment porter un short en cuir avec élégance / How to Wear Leather Shorts (FR+EN) | Style et Garde-robe | evergreen (queued)
+
+## Semaine 41 (05/10/2026 - 11/10/2026)
+- 2026-10-06 | Les plus grandes maisons de couture françaises / The Greatest French Couture Houses (FR+EN) | La Maison | evergreen (queued)
+- 2026-10-09 | Que mettre avec une robe en cuir, nos accords / What to Wear With a Leather Dress (FR+EN) | Style et Garde-robe | evergreen (queued)
+
+## Semaine 40 (28/09/2026 - 04/10/2026)
+- 2026-09-29 | Vêtement en cuir made in France, ce qu'il faut savoir / French Made Leather Clothing (FR+EN) | Savoir-faire | evergreen (queued)
+- 2026-10-02 | Le cuir d'agneau, la peau des maisons de couture / Lambskin Leather (FR+EN) | Le Cuir Stretch | evergreen (queued)
+
 ## Semaine 39 (21/09/2026 - 27/09/2026)
 - 2026-09-25 | Total look cuir femme : composer une tenue tout en cuir / Women's all-leather look (FR+EN) | Style et Garde-robe | evergreen (queued)
 

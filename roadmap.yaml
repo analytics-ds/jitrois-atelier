@@ -50,6 +50,12 @@
 # CADENCE : 2 articles/semaine (mardi + vendredi). Attention au quota global du
 # blog (4 articles/semaine max, articles GEO manuels inclus).
 #
+# NOTE BATCH #3 (a traiter au prochain batch, ecrit le 2026-09-09)
+# Les entrees todo restantes (20/10 au 10/11) ne contiennent plus que des sujets
+# "Le Cuir Stretch" et "Style et Garde-robe". La regle de diversite ne peut donc
+# plus etre tenue sur les fenetres de 5 au-dela du 23/10. Ajouter au batch #3 des
+# sujets "Savoir-faire" et "La Maison" avant de produire cette serie.
+#
 # CHAMPS
 # ------
 # Edites par l'humain :
@@ -187,11 +193,11 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-09-29"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    scheduled_date: "2026-10-09"
+    status: queued
+    queued_date: "2026-09-09"
+    published_url_fr: "https://atelier.jitrois.com/blog/que-mettre-avec-une-robe-en-cuir/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/what-to-wear-with-a-leather-dress/"
     error: null
 
   # ============ Octobre 2026 ============
@@ -200,11 +206,11 @@ articles:
     cluster: "matiere"
     volume: 390
     kd: null
-    scheduled_date: "2026-09-25"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    scheduled_date: "2026-10-02"
+    status: queued
+    queued_date: "2026-09-09"
+    published_url_fr: "https://atelier.jitrois.com/blog/cuir-agneau/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/lambskin-leather/"
     error: null
 
   - kw: "le perfecto en cuir : definition et alternatives luxe"
@@ -224,11 +230,11 @@ articles:
     cluster: "style"
     volume: 70
     kd: null
-    scheduled_date: "2026-10-09"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    scheduled_date: "2026-10-16"
+    status: queued
+    queued_date: "2026-09-09"
+    published_url_fr: "https://atelier.jitrois.com/blog/comment-porter-un-short-en-cuir/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/how-to-wear-leather-shorts/"
     error: null
 
   - kw: "cuir agneau plonge"
@@ -236,11 +242,11 @@ articles:
     cluster: "matiere"
     volume: 70
     kd: null
-    scheduled_date: "2026-10-06"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    scheduled_date: "2026-10-13"
+    status: queued
+    queued_date: "2026-09-09"
+    published_url_fr: "https://atelier.jitrois.com/blog/cuir-agneau-plonge/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/plonge-lambskin/"
     error: null
 
   - kw: "vetement cuir made in france"
@@ -248,11 +254,11 @@ articles:
     cluster: "savoir-faire"
     volume: null
     kd: null
-    scheduled_date: "2026-10-02"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    scheduled_date: "2026-09-29"
+    status: queued
+    queued_date: "2026-09-09"
+    published_url_fr: "https://atelier.jitrois.com/blog/vetement-cuir-made-in-france/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/french-made-leather-clothing/"
     error: null
 
   # ============ Novembre 2026 ============
@@ -261,7 +267,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-10-16"
+    scheduled_date: "2026-10-23"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -273,7 +279,7 @@ articles:
     cluster: "matiere"
     volume: 30
     kd: null
-    scheduled_date: "2026-10-13"
+    scheduled_date: "2026-10-27"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -297,7 +303,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-10-27"
+    scheduled_date: "2026-10-30"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -310,7 +316,7 @@ articles:
     cluster: "matiere"
     volume: 30
     kd: null
-    scheduled_date: "2026-10-23"
+    scheduled_date: "2026-11-03"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -334,7 +340,7 @@ articles:
     cluster: "style"
     volume: 20
     kd: null
-    scheduled_date: "2026-11-03"
+    scheduled_date: "2026-11-06"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -346,7 +352,7 @@ articles:
     cluster: "matiere"
     volume: 260
     kd: null
-    scheduled_date: "2026-10-30"
+    scheduled_date: "2026-11-10"
     status: todo
     queued_date: null
     published_url_fr: null
@@ -359,11 +365,11 @@ articles:
     cluster: "maison"
     volume: null
     kd: null
-    scheduled_date: "2026-09-22"
-    status: todo
-    queued_date: null
-    published_url_fr: null
-    published_url_en: null
+    scheduled_date: "2026-10-06"
+    status: queued
+    queued_date: "2026-09-09"
+    published_url_fr: "https://atelier.jitrois.com/blog/plus-grandes-maisons-de-couture-francaises/"
+    published_url_en: "https://atelier.jitrois.com/en/blog/greatest-french-couture-houses/"
     error: null
 
   # ============ Ajouts focus rentree (2026-07-20) ============
@@ -374,11 +380,11 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-08"
-    status: todo
+    status: failed
     queued_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "anti-doublon interne, sujet deja couvert par /blog/comment-porter-le-pantalon-en-cuir/ (26/06). A re-angler ou abandonner."
 
   - kw: "total look cuir femme"
     category: "Style et Garde-robe"
