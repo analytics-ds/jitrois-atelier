@@ -8,8 +8,8 @@ description: "What French made leather clothing really covers, which stages stay
 categories: ["Craftsmanship"]
 tags: ["french made leather clothing", "french craftsmanship", "tanning", "leather couture", "manufacturing"]
 author: "magalie-ergoz"
-image: "images/blog/cuir-couture-definition.webp"
-imageAlt: "Leather hide cut by hand in a French atelier"
+image: "images/blog/cuir-stretch-definition.jpg"
+imageAlt: "Rail of Jitrois leather jackets, pieces cut and assembled in France"
 imageCredit: "© Jitrois"
 faq:
   - question: "How can you tell whether a leather garment is genuinely made in France?"

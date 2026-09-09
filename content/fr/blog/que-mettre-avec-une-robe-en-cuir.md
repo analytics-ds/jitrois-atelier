@@ -9,7 +9,7 @@ categories: ["Style et Garde-robe"]
 tags: ["robe en cuir", "accords", "style", "cuir stretch", "cuir couture"]
 author: "magalie-ergoz"
 image: "images/blog/ou-acheter-robe-cuir-luxe.jpg"
-imageAlt: "Robe en cuir noire portée avec des bottes hautes, silhouette élancée"
+imageAlt: "Robe courte en cuir noir portée avec des escarpins pointus à bride"
 imageCredit: "© Jitrois"
 faq:
   - question: "Quelles chaussures porter avec une robe en cuir ?"

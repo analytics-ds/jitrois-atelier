@@ -6,10 +6,10 @@ lastmod: "2026-09-09"
 publishDate: "2026-10-06"
 description: "Lanvin, Chanel, Dior, Saint Laurent. Ce que recouvre l'appellation haute couture, les maisons qui ont écrit cette histoire et ce qui les distingue."
 categories: ["La Maison"]
-tags: ["maisons de couture francaises", "haute couture", "couture francaise", "cuir couture", "patrimoine"]
+tags: ["maisons de couture françaises", "haute couture", "couture française", "cuir couture", "patrimoine"]
 author: "magalie-ergoz"
-image: "images/blog/haute-couture-pret-a-porter.jpg"
-imageAlt: "Atelier de couture parisien, travail de la matière à la main"
+image: "images/blog/maison-couture-silhouette.webp"
+imageAlt: "Robe-manteau en cuir noir à taille marquée et jupe évasée, coupe couture"
 imageCredit: "© Jitrois"
 faq:
   - question: "Quelle est la plus ancienne maison de couture française encore en activité ?"

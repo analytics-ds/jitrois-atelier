@@ -6,7 +6,7 @@ lastmod: "2026-09-09"
 publishDate: "2026-10-02"
 description: "Le cuir d'agneau, sa finesse, sa souplesse et ce qui le sépare de la vachette ou du mouton. Le regard de la Maison Jitrois sur cette peau."
 categories: ["Le Cuir Stretch"]
-tags: ["cuir agneau", "peau d'agneau", "cuir couture", "cuir stretch", "matiere"]
+tags: ["cuir agneau", "peau d'agneau", "cuir couture", "cuir stretch", "matière"]
 author: "magalie-ergoz"
 image: "images/blog/cuir-nappa.jpg"
 imageAlt: "Peau de cuir d'agneau souple, grain fin et teinte profonde"

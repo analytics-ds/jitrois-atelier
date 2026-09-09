@@ -6,10 +6,10 @@ lastmod: "2026-09-09"
 publishDate: "2026-10-13"
 description: "Le cuir d'agneau plongé, une peau teintée à cœur par immersion. Sa souplesse, sa profondeur de couleur et sa place dans le vestiaire de la Maison."
 categories: ["Le Cuir Stretch"]
-tags: ["cuir agneau plonge", "cuir plonge", "peau d'agneau", "cuir stretch", "cuir couture"]
+tags: ["cuir agneau plongé", "cuir plongé", "peau d'agneau", "cuir stretch", "cuir couture"]
 author: "magalie-ergoz"
-image: "images/blog/cuir-stretch-definition.jpg"
-imageAlt: "Cuir d'agneau plongé noir, surface lisse et couleur profonde"
+image: "images/blog/cuir-agneau-plonge.webp"
+imageAlt: "Veste en cuir d'agneau plongé noir, couleur profonde et matière souple"
 imageCredit: "© Jitrois"
 faq:
   - question: "Qu'est-ce qu'un cuir plongé ?"

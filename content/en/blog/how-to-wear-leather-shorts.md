@@ -8,8 +8,8 @@ description: "Length, tops, shoes and season. Our advice for wearing leather sho
 categories: ["Style and Wardrobe"]
 tags: ["leather shorts", "style", "silhouette", "stretch leather", "leather couture"]
 author: "magalie-ergoz"
-image: "images/blog/comment-porter-jupe-en-cuir.jpg"
-imageAlt: "Black leather shorts worn with high boots and a knitted jumper"
+image: "images/blog/short-en-cuir.webp"
+imageAlt: "Flared black leather shorts worn with a light vest top and heeled sandals"
 imageCredit: "© Jitrois"
 faq:
   - question: "What top goes with leather shorts?"

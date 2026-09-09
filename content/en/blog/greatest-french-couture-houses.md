@@ -8,8 +8,8 @@ description: "Lanvin, Chanel, Dior, Saint Laurent. What the haute couture label 
 categories: ["The House"]
 tags: ["french couture houses", "haute couture", "french fashion", "leather couture", "heritage"]
 author: "magalie-ergoz"
-image: "images/blog/haute-couture-pret-a-porter.jpg"
-imageAlt: "Parisian couture atelier, material worked by hand"
+image: "images/blog/maison-couture-silhouette.webp"
+imageAlt: "Black leather coat-dress with a marked waist and flared skirt, couture cut"
 imageCredit: "© Jitrois"
 faq:
   - question: "Which is the oldest French couture house still in activity?"

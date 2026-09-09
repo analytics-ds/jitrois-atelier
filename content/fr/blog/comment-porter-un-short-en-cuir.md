@@ -8,8 +8,8 @@ description: "Longueur, haut, chaussures et saison. Nos conseils pour porter un 
 categories: ["Style et Garde-robe"]
 tags: ["short en cuir", "style", "silhouette", "cuir stretch", "cuir couture"]
 author: "magalie-ergoz"
-image: "images/blog/comment-porter-jupe-en-cuir.jpg"
-imageAlt: "Short en cuir noir porté avec des bottes hautes et un pull en maille"
+image: "images/blog/short-en-cuir.webp"
+imageAlt: "Short en cuir noir évasé porté avec un débardeur clair et des sandales à talon"
 imageCredit: "© Jitrois"
 faq:
   - question: "Quel haut mettre avec un short en cuir ?"

@@ -6,10 +6,10 @@ lastmod: "2026-09-09"
 publishDate: "2026-09-29"
 description: "Ce que recouvre vraiment un vêtement en cuir made in France, les étapes qui restent en France, les bassins du cuir et les bonnes questions."
 categories: ["Savoir-faire"]
-tags: ["vetement cuir made in france", "savoir-faire francais", "tannage", "cuir couture", "fabrication"]
+tags: ["vêtement cuir made in France", "savoir-faire français", "tannage", "cuir couture", "fabrication"]
 author: "magalie-ergoz"
-image: "images/blog/cuir-couture-definition.webp"
-imageAlt: "Coupe à la main d'une peau de cuir dans un atelier français"
+image: "images/blog/cuir-stretch-definition.jpg"
+imageAlt: "Portant de vestes en cuir Jitrois, pièces coupées et montées en France"
 imageCredit: "© Jitrois"
 faq:
   - question: "Comment savoir si un vêtement en cuir est vraiment fabriqué en France ?"

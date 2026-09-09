@@ -9,7 +9,7 @@ categories: ["Style and Wardrobe"]
 tags: ["leather dress", "pairings", "style", "stretch leather", "leather couture"]
 author: "magalie-ergoz"
 image: "images/blog/ou-acheter-robe-cuir-luxe.jpg"
-imageAlt: "Black leather dress worn with high boots, elongated silhouette"
+imageAlt: "Short black leather dress worn with pointed strappy court shoes"
 imageCredit: "© Jitrois"
 faq:
   - question: "Which shoes go with a leather dress?"

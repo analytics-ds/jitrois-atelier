@@ -8,8 +8,8 @@ description: "Plongé lambskin, a hide dyed to the core by immersion. Its supple
 categories: ["Stretch Leather"]
 tags: ["plonge lambskin", "plonge leather", "lamb hide", "stretch leather", "leather couture"]
 author: "magalie-ergoz"
-image: "images/blog/cuir-stretch-definition.jpg"
-imageAlt: "Black plongé lambskin, smooth surface and deep colour"
+image: "images/blog/cuir-agneau-plonge.webp"
+imageAlt: "Black plongé lambskin jacket, deep colour and supple material"
 imageCredit: "© Jitrois"
 faq:
   - question: "What is plongé leather?"
